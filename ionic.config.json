@@ -1,5 +1,7 @@
 {
   "name": "gnv-front",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
