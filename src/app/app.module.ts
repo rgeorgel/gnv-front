@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouteReuseStrategy } from '@angular/router';
 import { HttpModule } from '@angular/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
@@ -10,8 +11,9 @@ import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
-import { StationService } from 'src/services/station.service';
 
+import { StationService } from 'src/services/station.service';
+import { GoogleService } from 'src/services/google.services';
 
 
 @NgModule({
@@ -22,6 +24,9 @@ import { StationService } from 'src/services/station.service';
     IonicModule.forRoot(),
     AppRoutingModule,
     HttpModule,
+
+    FormsModule,
+    ReactiveFormsModule,
   ],
   providers: [
     StatusBar,
@@ -29,6 +34,7 @@ import { StationService } from 'src/services/station.service';
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
     Geolocation,
     StationService,
+    GoogleService,
   ],
   bootstrap: [AppComponent]
 })

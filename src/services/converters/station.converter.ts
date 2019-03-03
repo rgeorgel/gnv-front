@@ -29,4 +29,20 @@ export class StationConverter {
 
     return models;
   }
+
+  toExternal(station: Station): any {
+    const external = {
+      id: station.id,
+      name: station.name,
+      street: station.street,
+      number: station.number,
+      neighborhood: station.neighborhood,
+      city: station.city,
+      state: station.state,
+      lat: station.lat,
+      lng: station.lng
+    };
+
+    return external;
+  }
 }

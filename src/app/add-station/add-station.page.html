@@ -10,5 +10,95 @@
 </ion-header>
 
 <ion-content padding>
+  <form padding [formGroup]="myForm" (submit)="save()" novalidate>
+    <ion-item>
+      <ion-input [(ngModel)]="name"
+                 formControlName="name"
+                 type="text"
+                 placeholder="Nome do posto"
+                 clearInput 
+                 clearOnEdit="false">
+      </ion-input>
+    </ion-item>
+    <h6 *ngIf="errorName" class="error"> {{messageName}}</h6>
 
+    <ion-item>
+      <ion-input [(ngModel)]="street"
+                 formControlName="street"
+                 type="text"
+                 placeholder="Logradouro"
+                 clearInput clearOnEdit="false">
+      </ion-input>
+    </ion-item>
+    <h6 *ngIf="errorStreet" class="error"> {{messageStreet}}</h6>
+
+    <ion-item>
+      <ion-input [(ngModel)]="number"
+                  formControlName="number"
+                  type="number"
+                  placeholder="Numero"
+                  clearInput clearOnEdit="false">
+      </ion-input>
+    </ion-item>
+    <h6 *ngIf="errorNumber" class="error"> {{messageNumber}}</h6>
+
+    <ion-item>
+      <ion-input [(ngModel)]="neighborhood"
+                  formControlName="neighborhood"
+                  type="text"
+                  placeholder="Bairro"
+                  clearInput clearOnEdit="false">
+      </ion-input>
+    </ion-item>
+    <h6 *ngIf="errorNeighborhood" class="error"> {{messageNeighborhood}}</h6>
+
+    <ion-item>
+      <ion-input [(ngModel)]="city"
+                  formControlName="city"
+                  type="text"
+                  placeholder="Cidade"
+                  clearInput clearOnEdit="false">
+      </ion-input>
+    </ion-item>
+    <h6 *ngIf="errorCity" class="error"> {{messageCity}}</h6>
+
+    <ion-item>
+      <ion-label>Estado</ion-label>
+      <ion-select
+        [(ngModel)]="state"
+        formControlName="state"
+        placeholder="Selecione...">
+        <ion-select-option value="AC">Acre</ion-select-option>
+        <ion-select-option value="AL">Alagoas</ion-select-option>
+        <ion-select-option value="AP">Amapá</ion-select-option>
+        <ion-select-option value="AM">Amazonas</ion-select-option>
+        <ion-select-option value="BA">Bahia</ion-select-option>
+        <ion-select-option value="CE">Ceará</ion-select-option>
+        <ion-select-option value="DF">Distrito Federal</ion-select-option>
+        <ion-select-option value="ES">Espírito Santo</ion-select-option>
+        <ion-select-option value="GO">Goiás</ion-select-option>
+        <ion-select-option value="MA">Maranhão</ion-select-option>
+        <ion-select-option value="MT">Mato Grosso</ion-select-option>
+        <ion-select-option value="MS">Mato Grosso do Sul</ion-select-option>
+        <ion-select-option value="MG">Minas Gerais</ion-select-option>
+        <ion-select-option value="PR">Paraná</ion-select-option>
+        <ion-select-option value="PB">Paraíba</ion-select-option>
+        <ion-select-option value="PA">Pará</ion-select-option>
+        <ion-select-option value="PE">Pernambuco</ion-select-option>
+        <ion-select-option value="PI">Piauí</ion-select-option>
+        <ion-select-option value="RN">Rio Grande do Norte</ion-select-option>
+        <ion-select-option value="RS">Rio Grande do Sul</ion-select-option>
+        <ion-select-option value="RJ">Rio de Janeiro</ion-select-option>
+        <ion-select-option value="RO">Rondônia</ion-select-option>
+        <ion-select-option value="RR">Roraima</ion-select-option>
+        <ion-select-option value="SC">Santa Catarina</ion-select-option>
+        <ion-select-option value="SE">Sergipe</ion-select-option>
+        <ion-select-option value="SP">São Paulo</ion-select-option>
+        <ion-select-option value="TO">Tocantins</ion-select-option>
+      </ion-select>
+    </ion-item>
+    <h6 *ngIf="errorState" class="error"> {{messageState}}</h6>
+
+    <ion-button type="submit" shape="round">Validar</ion-button>
+  </form>
 </ion-content>

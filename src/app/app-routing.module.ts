@@ -17,7 +17,8 @@ const routes: Routes = [
   },
   { path: 'map', loadChildren: './map/map.module#MapPageModule' },
   { path: 'add-station', loadChildren: './add-station/add-station.module#AddStationPageModule' },
-  { path: 'simulation', loadChildren: './simulation/simulation.module#SimulationPageModule' }
+  { path: 'simulation', loadChildren: './simulation/simulation.module#SimulationPageModule' },
+  { path: 'add-station-map', loadChildren: './add-station-map/add-station-map.module#AddStationMapPageModule' }
 ];
 
 @NgModule({

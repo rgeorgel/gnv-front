@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import { environment } from 'src/environments/environment';
 import { StationConverter } from './converters/station.converter';
+import { Station } from 'src/app/models/station.model';
 
 @Injectable()
 export class StationService {
@@ -21,10 +22,22 @@ export class StationService {
         .toPromise()
         .then((res: Response) => {
             const body = res.json();
-
             const converter = new StationConverter();
 
             return converter.toModels(body);
+        })
+        .catch(this.handleError);
+    }
+
+    save(station: Station) {
+        const converter = new StationConverter();
+        const _body = converter.toExternal(station);
+
+        return this.http.post(environment.urlServer + '/station', _body)
+        .toPromise()
+        .then((res: Response) => {
+            const body = res.json();
+            return converter.toModel(body);
         })
         .catch(this.handleError);
     }
