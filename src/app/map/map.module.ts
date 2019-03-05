@@ -1,12 +1,13 @@
 import { NgModule, forwardRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { Routes, RouterModule } from '@angular/router';
+import { Routes, RouterModule, RouteReuseStrategy } from '@angular/router';
 
-import { IonicModule } from '@ionic/angular';
+import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { MapPage } from './map.page';
 import { StationService } from '../../services/station.service';
+import { ModalComponent } from './modal/modal.component';
 
 const routes: Routes = [
   {
@@ -22,6 +23,15 @@ const routes: Routes = [
     IonicModule,
     RouterModule.forChild(routes)
   ],
-  declarations: [MapPage]
+  declarations: [
+    MapPage,
+    ModalComponent,
+  ],
+  providers: [
+    { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
+  ],
+  entryComponents: [
+    ModalComponent
+  ]
 })
 export class MapPageModule {}

@@ -1,0 +1,17 @@
+<div>
+    <h3>{{ getName() }}</h3>
+    <h4>{{ getAddress() }}</h4>
+</div>
+<div class="popup-buttons mypopup-buttons">
+    <a (click)="openWaze()" class="button button-positive button-default">
+        <img src="assets/waze_img.png" />
+        <b class="button-text">Ver no Waze</b>
+    </a>
+
+    <a (click)="openGoogle()" class="button button-positive button-default">
+        <img src="assets/google_maps_img.png" />
+        <b class="button-text">Ver no Google Maps</b>
+    </a>
+</div>
+
+<ion-button (click)="closeModal()" shape="round" color="light">Fechar</ion-button>

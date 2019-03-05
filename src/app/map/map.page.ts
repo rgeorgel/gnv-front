@@ -1,8 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, NgZone } from '@angular/core';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import { StationService } from '../../services/station.service';
 import { Station } from '../models/station.model';
+import { ModalController, AlertController } from '@ionic/angular';
+import { ModalComponent } from './modal/modal.component';
+import { Address } from '../models/address.model';
 
 declare var google;
 
@@ -14,11 +17,20 @@ declare var google;
 export class MapPage implements OnInit {
   map: any;
   stations: Array<Station> = [];
+  currentPosition: Address = new Address();
+
+  myPopup: any;
+  lat: any;
+  lng: any;
 
   stationService: StationService;
   constructor(
     stationService: StationService,
-    public geolocation: Geolocation) {
+    public geolocation: Geolocation,
+    private modalCtrl: ModalController,
+    private alertCtrl: AlertController,
+    private zone: NgZone,
+  ) {
     this.stationService = stationService;
   }
 
@@ -27,13 +39,21 @@ export class MapPage implements OnInit {
   }
 
   getLocation() {
-    this.geolocation.getCurrentPosition().then((res) => {
+    const options = {
+      enableHighAccuracy: true,
+      timeout: 60000,
+      maximumAge: 0
+    };
+    this.geolocation.getCurrentPosition(options).then((res) => {
+      this.currentPosition.lat = String(res.coords.latitude);
+      this.currentPosition.lng = String(res.coords.longitude);
+
       this.initMap(res.coords.latitude, res.coords.longitude);
       this.getStations();
     });
   }
 
-  initMap(lat, lnt) {
+  initMap(lat: number, lnt: number) {
     const position = new google.maps.LatLng(lat, lnt);
 
     const mapOptions = {
@@ -57,11 +77,32 @@ export class MapPage implements OnInit {
           map: this.map,
           title: station.name,
         });
+
+        this.setMarkerClickable(marker, station);
       }
 
     })
     .catch(() => {
       console.log('Oops, nao foi possivel carregar os postos');
     });
+  }
+
+  setMarkerClickable(marker: any, station: Station): void {
+    marker.addListener('click', () => {
+      this.zone.run(() => {
+        this.openModal(station);
+      });
+    });
+  }
+
+  async openModal(station: Station) {
+    sessionStorage.setItem('show-station', JSON.stringify(station));
+    sessionStorage.setItem('current-address', JSON.stringify(this.currentPosition));
+    const modal = await this.modalCtrl.create({
+     component: ModalComponent,
+     componentProps: station
+   });
+
+   return await modal.present();
   }
 }
