@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 import { Platform } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
+import { AdMobFreeBannerConfig, AdMobFree, AdMobFreeInterstitialConfig } from '@ionic-native/admob-free/ngx';
 
 @Component({
   selector: 'app-root',
@@ -35,7 +36,8 @@ export class AppComponent {
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
-    private statusBar: StatusBar
+    private statusBar: StatusBar,
+    private admobFree: AdMobFree,
   ) {
     this.initializeApp();
   }
@@ -44,6 +46,61 @@ export class AppComponent {
     this.platform.ready().then(() => {
       this.statusBar.styleDefault();
       this.splashScreen.hide();
+    });
+
+    this.setAds();
+  }
+
+  setAds(): void {
+    this.platform.ready().then(() => {
+      const admobid = {
+        banner: 'ca-app-pub-2452858859242368/9428178902',
+        interstitial: 'ca-app-pub-2452858859242368/2279304865',
+
+        isTesting: false
+      };
+
+
+      const bannerConfig: AdMobFreeBannerConfig = {
+        isTesting: admobid.isTesting,
+        autoShow: false,
+        id: admobid.banner
+      };
+      this.admobFree.banner.config(bannerConfig);
+
+      this.admobFree.banner.prepare()
+        .then(() => {
+          this.admobFree.banner.show();
+        })
+        .catch(e => {
+          console.log('================>');
+          console.log('================>');
+          console.log(e);
+          console.log('<================');
+          console.log('<================');
+        });
+
+
+      const interstitialConfig: AdMobFreeInterstitialConfig = {
+        isTesting: true,
+        autoShow: false,
+        id: 'ca-app-pub-2452858859242368/2279304865'
+      };
+      this.admobFree.interstitial.config(interstitialConfig);
+
+      this.admobFree.interstitial.prepare()
+        .then(() => {
+          setTimeout(() => {
+            this.admobFree.interstitial.show();
+          }, 10000);
+        })
+        .catch(e => {
+          console.log('----------------->');
+          console.log('----------------->');
+          console.log(e);
+          console.log('<-----------------');
+          console.log('<-----------------');
+        });
     });
   }
 }

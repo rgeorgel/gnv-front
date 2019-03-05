@@ -14,6 +14,7 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { StationService } from 'src/services/station.service';
 import { GoogleService } from 'src/services/google.services';
+import { AdMobFree } from '@ionic-native/admob-free/ngx';
 
 
 @NgModule({
@@ -35,6 +36,7 @@ import { GoogleService } from 'src/services/google.services';
     Geolocation,
     StationService,
     GoogleService,
+    AdMobFree,
   ],
   bootstrap: [AppComponent]
 })
