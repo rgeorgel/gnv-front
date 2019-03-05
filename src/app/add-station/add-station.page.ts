@@ -13,6 +13,13 @@ import { Router } from '@angular/router';
 })
 export class AddStationPage implements OnInit {
 
+  name: any;
+  street: any;
+  number: any;
+  neighborhood: any;
+  city: any;
+  state: any;
+
   public myForm: any;
   messageName = '';
   messageStreet = '';
