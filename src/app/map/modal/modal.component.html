@@ -1,6 +1,7 @@
 <div>
     <h3>{{ getName() }}</h3>
     <h4>{{ getAddress() }}</h4>
+    <a (click)="stationNotExist(station.id)" class="station-not-exist">O posto não existe?</a>
 </div>
 <div class="popup-buttons mypopup-buttons">
     <a (click)="openWaze()" class="button button-positive button-default">

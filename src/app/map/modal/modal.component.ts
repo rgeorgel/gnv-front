@@ -4,6 +4,8 @@ import { LaunchNavigator, LaunchNavigatorOptions } from '@ionic-native/launch-na
 
 import { Station } from 'src/app/models/station.model';
 import { Address } from 'src/app/models/address.model';
+import { Notification } from 'src/app/models/notification.model';
+import { NotificationService } from 'src/services/notification.service';
 
 @Component({
   selector: 'modal',
@@ -14,13 +16,15 @@ export class ModalComponent implements OnInit {
 
   station: Station = new Station();
   currentAddress: Address = new Address();
+  notificationService: NotificationService;
 
   constructor(
     private nav: NavController,
     private modalCtrl: ModalController,
     private launchNavigator: LaunchNavigator,
+    notificationService: NotificationService,
   ) {
-
+    this.notificationService = notificationService;
   }
 
   ngOnInit() {
@@ -60,5 +64,19 @@ export class ModalComponent implements OnInit {
     return `${this.station.number},
             ${this.station.street}, ${this.station.neighborhood},
             ${this.station.city} - ${this.station.state}`;
+  }
+
+  stationNotExist(stationId: number) {
+    if (confirm('Confirma que o posto não existe?')) {
+
+      const notification = new Notification();
+      notification.type = 1;
+      notification.stationId = stationId;
+
+      this.notificationService.send(notification)
+        .then((response: Notification) => {
+          alert('Notificação cadastrada com sucesso!');
+        });
+    }
   }
 }

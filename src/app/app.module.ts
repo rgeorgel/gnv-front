@@ -8,13 +8,14 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
+import { AdMobFree } from '@ionic-native/admob-free/ngx';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
 import { StationService } from 'src/services/station.service';
 import { GoogleService } from 'src/services/google.services';
-import { AdMobFree } from '@ionic-native/admob-free/ngx';
+import { NotificationService } from 'src/services/notification.service';
 
 
 @NgModule({
@@ -35,6 +36,7 @@ import { AdMobFree } from '@ionic-native/admob-free/ngx';
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
     Geolocation,
     StationService,
+    NotificationService,
     GoogleService,
     AdMobFree,
   ],
