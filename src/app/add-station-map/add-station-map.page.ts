@@ -3,6 +3,7 @@ import { Location } from '@angular/common';
 import { Router } from '@angular/router';
 import { StationService } from 'src/services/station.service';
 import { Station } from '../models/station.model';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 declare var google;
 
@@ -21,6 +22,7 @@ export class AddStationMapPage implements OnInit {
     stationService: StationService,
     private router: Router,
     private _location: Location,
+    private ga: GoogleAnalytics,
   ) {
     this.stationService = stationService;
   }
@@ -30,6 +32,9 @@ export class AddStationMapPage implements OnInit {
 
     this.initMap(this.station.lat, this.station.lng);
     this.addMarker(this.station);
+
+    this.ga.trackView('Add-Station-Map Page');
+    this.ga.trackEvent('track', 'Add-Station-Map', 'Add-Station-Map');
   }
 
   initMap(lat: string, lnt: string) {

@@ -5,6 +5,7 @@ import { Station } from '../models/station.model';
 import { Address } from '../models/address.model';
 import { GoogleService } from 'src/services/google.services';
 import { Router } from '@angular/router';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 @Component({
   selector: 'app-add-station',
@@ -43,6 +44,7 @@ export class AddStationPage implements OnInit {
     stationService: StationService,
     googleService: GoogleService,
     private router: Router,
+    private ga: GoogleAnalytics,
   ) {
     this.stationService = stationService;
     this.googleService = googleService;
@@ -58,6 +60,8 @@ export class AddStationPage implements OnInit {
   }
 
   ngOnInit() {
+    this.ga.trackView('Add-Station Page');
+    this.ga.trackEvent('track', 'Add-Station', 'Add-Station');
   }
 
   isValid(): boolean {

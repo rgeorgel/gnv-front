@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 @Component({
   selector: 'app-simulation',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SimulationPage implements OnInit {
 
-  constructor() { }
+  constructor(
+    private ga: GoogleAnalytics,
+  ) { }
 
   ngOnInit() {
+    this.ga.trackView('Simulation Page');
+    this.ga.trackEvent('track', 'Simulation Page', 'Simulation Page');
   }
 
 }

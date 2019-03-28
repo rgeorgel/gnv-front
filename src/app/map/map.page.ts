@@ -6,6 +6,7 @@ import { Station } from '../models/station.model';
 import { ModalController, AlertController } from '@ionic/angular';
 import { ModalComponent } from './modal/modal.component';
 import { Address } from '../models/address.model';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 declare var google;
 
@@ -30,12 +31,16 @@ export class MapPage implements OnInit {
     private modalCtrl: ModalController,
     private alertCtrl: AlertController,
     private zone: NgZone,
+    private ga: GoogleAnalytics,
   ) {
     this.stationService = stationService;
   }
 
   ngOnInit() {
     this.getLocation();
+
+    this.ga.trackView('Map Page');
+    this.ga.trackEvent('track', 'Map Page', 'Map Page');
   }
 
   getLocation() {

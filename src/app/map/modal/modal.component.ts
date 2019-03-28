@@ -6,6 +6,7 @@ import { Station } from 'src/app/models/station.model';
 import { Address } from 'src/app/models/address.model';
 import { Notification } from 'src/app/models/notification.model';
 import { NotificationService } from 'src/services/notification.service';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 @Component({
   selector: 'modal',
@@ -23,6 +24,7 @@ export class ModalComponent implements OnInit {
     private modalCtrl: ModalController,
     private launchNavigator: LaunchNavigator,
     notificationService: NotificationService,
+    private ga: GoogleAnalytics,
   ) {
     this.notificationService = notificationService;
   }
@@ -30,6 +32,9 @@ export class ModalComponent implements OnInit {
   ngOnInit() {
     this.station = JSON.parse(sessionStorage.getItem('show-station'));
     this.currentAddress = JSON.parse(sessionStorage.getItem('current-address'));
+
+    this.ga.trackView('Map-Modal Page');
+    this.ga.trackEvent('track', 'Map-Modal Page', 'Map-Modal Page');
   }
 
   closeModal() {
