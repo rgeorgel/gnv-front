@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   urlServer: 'https://localhost:5001/api',
-  googleMapsApiKey: '$google_map'
+  googleMapsApiKey: 'google_maps_key'
 };
 
 /*
