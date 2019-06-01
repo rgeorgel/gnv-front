@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  urlServer: 'https://localhost:5001/api',
+  urlServer: 'https://gnv-no-app.herokuapp.com/api',
   googleMapsApiKey: 'google_maps_key'
 };
 
