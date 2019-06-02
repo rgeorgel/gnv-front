@@ -22,11 +22,11 @@ export class AppComponent {
       url: '/map',
       icon: 'pin'
     },
-    {
-      title: 'Simular economia',
-      url: '/simulation',
-      icon: 'logo-usd'
-    },
+    // {
+    //   title: 'Simular economia',
+    //   url: '/simulation',
+    //   icon: 'logo-usd'
+    // },
     {
       title: 'Adicionar posto',
       url: '/add-station',
