@@ -158,7 +158,7 @@ export class AddStationPage implements OnInit {
   }
 
   saveBulk() {
-    const stations = require('../../assets/station-base/sp.json');
+    const stations = [];
 
     for (let i = 0; i < stations.length; i++) {
       const station = stations[i];
