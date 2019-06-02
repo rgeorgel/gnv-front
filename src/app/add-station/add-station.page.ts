@@ -156,4 +156,51 @@ export class AddStationPage implements OnInit {
         this.router.navigateByUrl('add-station-map');
       });
   }
+
+  saveBulk() {
+    const stations = require('../../assets/station-base/sp.json');
+
+    for (let i = 0; i < stations.length; i++) {
+      const station = stations[i];
+
+      console.log('index:', i);
+      console.log('station', station);
+      console.log('prepare', this.prepare(station));
+    }
+  }
+
+  async prepare(base) {
+    const station: Station = new Station();
+
+    try {
+      const parts = base.endereco.split(',');
+      const parts2 = parts[1].split('-');
+
+      station.name = base.nome;
+      station.street = parts[0].trim();
+      station.number = parts2[0].trim();
+      station.neighborhood = parts2[1].trim();
+      station.city = parts2.length > 3 ? parts2[2].trim() : 'São Paulo';
+
+      await this.googleService.getLatLngByAddress(station)
+      .then((latLng: Address) => {
+        const _station = new Station();
+        _station.lat = latLng.lat;
+        _station.lng = latLng.lng;
+        _station.city = station.city;
+        _station.name = station.name;
+        _station.neighborhood = station.neighborhood;
+        _station.number = station.number;
+        _station.state = station.state;
+        _station.street = station.street;
+
+        this.stationService.save(_station);
+      });
+
+    } catch (ex) {
+      console.log('====> base:', base, ex);
+    }
+
+    return station;
+  }
 }

@@ -1,0 +1,950 @@
+[
+  {
+    "nome": "Aeromarte",
+    "endereco": "Rua Faustino Pereira Matias, 86 - Santana - São Paulo"
+  },
+  {
+    "nome": "Alicemar",
+    "endereco": "Av Mal Tito, 6034 - Jardim Miragaia - São Paulo"
+  },
+  {
+    "nome": "Alternativa",
+    "endereco": "Rua Narciso Sturlini, 248 - Vila Bussocaba - Osasco"
+  },
+  {
+    "nome": "Américo Brasiliense",
+    "endereco": "R. Américo Brasiliense, 1219 - Chacara Santo Antonio - São Paulo"
+  },
+  {
+    "nome": "Ana Nery",
+    "endereco": "Rua Dona Ana Nery, 1156 - Cambuci - São Paulo"
+  },
+  {
+    "nome": "Ap Tropical",
+    "endereco": "Av. Alcantara Machado, 360 - Bras - São Paulo"
+  },
+  {
+    "nome": "Apolo 8",
+    "endereco": "Av. Morvan Dias Figueiredo, 2391 - Vila Guilherme - São Paulo"
+  },
+  {
+    "nome": "Arco Posto de Serviços ltda.",
+    "endereco": "Av Interlagos, 635 - Jardim Umuarama - São Paulo"
+  },
+  {
+    "nome": "Argetax Chico Pontes",
+    "endereco": "Rua Chico Pontes, 1292 - Vila Guilherme - São Paulo"
+  },
+  {
+    "nome": "Auto Lider Bandeiras Ltda",
+    "endereco": "Av. Pres. Castelo Branco, 3345 - Varzea da Barra Funda - São Paulo"
+  },
+  {
+    "nome": "Auto Posto 2002",
+    "endereco": "Av. Princesa D´Oeste, 2002 - Mansoes Santo Antonio - Campinas"
+  },
+  {
+    "nome": "Auto Posto 710",
+    "endereco": "Rua Clodomiro Amazonas, 710 - Vila Nova Conceição - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Altino Il",
+    "endereco": "Rua Werner Battenfeld, 150 - Presidente Altino - Osasco"
+  },
+  {
+    "nome": "Auto Posto Arco Do Triunfo",
+    "endereco": "Rua Doutor Moisés Kahan, 501 - Varzea da Barra Funda - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Arrastão Ltda.",
+    "endereco": "Rua Cristiano Otoni, 56 - Centro - Santos"
+  },
+  {
+    "nome": "Auto Posto Barao De Itapura Campinas Ltda",
+    "endereco": "Av. Barao De Itapura, 641 - Botafogo - Campinas"
+  },
+  {
+    "nome": "Auto Posto Bertioga Ltda",
+    "endereco": "Rua Do Acre, 54 - Vila Bertioga - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Brasil Gas Dutra",
+    "endereco": "Rua Patativa, 631 - Vila Industrial - São José dos Campos"
+  },
+  {
+    "nome": "Auto Posto Brasil Gas Mogi Ltda",
+    "endereco": "Av Jucelino Kubitschek De Oliveira, 2200 - Mogi Mirim - Mogi Mirim"
+  },
+  {
+    "nome": "Auto Posto Brasil Gás Sp Rj Ltda",
+    "endereco": "Rod. Presidente Dutra, Km 52 - Lorena - Lorena"
+  },
+  {
+    "nome": "Auto Posto Cidade Nova Pinda",
+    "endereco": "Av. Gastao Vidigal Neto, 1200 - Pindamonhangaba - Pindamonhangaba"
+  },
+  {
+    "nome": "Auto Posto Duque Zagottis",
+    "endereco": "Av. Engenheiro. Alberto De Zagottis, 0 - Jardim Anhanguera - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Edu Ltda",
+    "endereco": "Rua Luiz Stamatis, 220 - Vila Constança - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Gascem Ltda.",
+    "endereco": "Av. Cidade Jardim, 920 - Jardim Satélite - São José dos Campos"
+  },
+  {
+    "nome": "Auto Posto Grande Vila Nova Ltda",
+    "endereco": "Rodovia Cônego Domenico Rangoni, 0 - Vila Parisi - Cubatão"
+  },
+  {
+    "nome": "Auto Posto J.K.",
+    "endereco": "Av. Presidente Juscelino K. De Oliveira, 09 - Jardim Albertina - Guarulhos"
+  },
+  {
+    "nome": "Auto Posto Jardim Do Trevo Ltda",
+    "endereco": "Av. Benedito De Campos, 193 - Jardim do trevo - Campinas"
+  },
+  {
+    "nome": "Auto Posto Lindóia",
+    "endereco": "Av. Maria Dafre, 415 - Quinta de Paineira - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Luma De Cajamar Ltda",
+    "endereco": "Av. Arnaldo Rojek, 35 - Cajamar - Cajamar"
+  },
+  {
+    "nome": "Auto Posto Mont Blanc",
+    "endereco": "Rua Carmine Feola, 1193 - Jardim São Domingos - Americana"
+  },
+  {
+    "nome": "Auto Posto Novo Horizonte",
+    "endereco": "Av. Novo Horizonte, 480 - Vila sacadura Cabral - Santo André"
+  },
+  {
+    "nome": "Auto Posto Oitenta",
+    "endereco": "Av. Capitão João, 566 - Matriz - Mauá"
+  },
+  {
+    "nome": "Auto Posto Oiti",
+    "endereco": "Av. Regente Feijó, 1.188 - Vila Regente Feijo - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Parque Cidade Nova Ltda",
+    "endereco": "Av. Bandeirantes, 1135 - Mogi Guaçu - Mogi Guaçu"
+  },
+  {
+    "nome": "Auto Posto Patropi",
+    "endereco": "Av. Ricardo Bessole Cezare, 705 - Jardim das Bandeiras II - Campinas"
+  },
+  {
+    "nome": "Auto Posto PPR",
+    "endereco": "Rua Dois, 0 -  Lote 02 Quadra H - Jaguariuna - Jaguariuna"
+  },
+  {
+    "nome": "Auto Posto Rio Coa",
+    "endereco": "Av. Assis Ribeiro, 10410 - Engenheiro Goulart - São Paulo"
+  },
+  {
+    "nome": "Auto Posto Rvm Maxi Ltda",
+    "endereco": "Rod. Adhemar De Barros, Km 159 - Jardim Pissinatti - Mogi Mirim"
+  },
+  {
+    "nome": "Auto Posto Saci Ltda",
+    "endereco": "Rod. Anhanguera Sp, 33.084 - Joapiranga - Valinhos"
+  },
+  {
+    "nome": "Auto Posto Sakamoto Ltda",
+    "endereco": "Rodovia Presidente Dutra Km 210, 0 - Bonsucesso - Guarulhos"
+  },
+  {
+    "nome": "Auto Posto Sena Ltda.",
+    "endereco": "Av Pres. Kennedy, 6160 - Vila São José - Osasco"
+  },
+  {
+    "nome": "Auto Posto Sogal",
+    "endereco": "Av. Dos Bandeirantes, 4.680 - CENTRO - Taubaté"
+  },
+  {
+    "nome": "Auto Posto Térios",
+    "endereco": "Rua Alferes Bonilha, 531 - Centro - São Bernardo do Campo"
+  },
+  {
+    "nome": "Auto Posto Tic Tac Cabreuva Ltda",
+    "endereco": "Av. Vereador José Donatto, 232 - Cabreuva - Cabreuva"
+  },
+  {
+    "nome": "Auto posto Titans Antigo VIPAM II",
+    "endereco": "Rua Frederico R. Jagher, 27 - Mogi das Cruzes"
+  },
+  {
+    "nome": "Auto Posto Titans Antigo Vipam Ii",
+    "endereco": "Rua Frederico R. Jagher, 27 - Vila Lavinia - Mogi das Cruzes"
+  },
+  {
+    "nome": "Auto Servicos Jangadeiro Ltda",
+    "endereco": "Rua Catumbi, 840 - Bras - São Paulo"
+  },
+  {
+    "nome": "Auto Versa (Tiago e Jean Oficina Mecânica Ltda)",
+    "endereco": "Av. Prof. Joaquim de Michielle, 550 - Jd Esmeralda - São Paulo"
+  },
+  {
+    "nome": "Baixada Santista",
+    "endereco": "Rua José Vicente, 91 - Vila Elizabeth - Cubatão"
+  },
+  {
+    "nome": "Band Ill",
+    "endereco": "Rua Lavariz, 03 - Parque Colonial - São Paulo"
+  },
+  {
+    "nome": "Bandeirantes Confirmar",
+    "endereco": "Av. Dr. Nelson D´Ávila, 1650 - Jardim São Dimas - São José dos Campos"
+  },
+  {
+    "nome": "Batalha",
+    "endereco": "Rua Azem Abdala Azem, 2600 - Jardim Bonfiglioli - São Paulo"
+  },
+  {
+    "nome": "Bg GNV Do Brasil Ltda Equipe 1",
+    "endereco": "Rua Jose Macedo, 771 - Vila Macedopolis - São Paulo"
+  },
+  {
+    "nome": "Bg GNV Do Brasil Ltda Futuro",
+    "endereco": "Rua Albino Jose Barbosa De Oliveira, 360 - Barao de Geraldo - Campinas"
+  },
+  {
+    "nome": "Bonazza",
+    "endereco": "Rua Heinrich Nordoff, 61 - São Bernardo do Campo - São Bernardo do Campo"
+  },
+  {
+    "nome": "Br Posto 800 Milhas",
+    "endereco": "Av. Presidente Wilson, 759 - Centro - São Vicente"
+  },
+  {
+    "nome": "Brasil Gas Pinda",
+    "endereco": "Av. Dr. José Monteiro Machado Cesar, 1250 - Loteamento João T Fernandes - Pindamonhangaba"
+  },
+  {
+    "nome": "Brasil Lorena",
+    "endereco": "Rua Castro Alves, 619 - Cruz - Lorena"
+  },
+  {
+    "nome": "Bussocaba",
+    "endereco": "Av. Fuad Auada,240 - Presidente Altino - Osaco"
+  },
+  {
+    "nome": "Cacareco",
+    "endereco": "Rodovia Wilson Finarddi, Km 66 - Rio Claro - Rio Claro"
+  },
+  {
+    "nome": "Cambuci",
+    "endereco": "Largo Do Cambuci, 172 - Cambuci - São Paulo"
+  },
+  {
+    "nome": "Caminho Certo",
+    "endereco": "Av. Manoel Domingos Pinto, 610 - Parque Anhanguera - São Paulo"
+  },
+  {
+    "nome": "Carbojato",
+    "endereco": "Av. Imirim, 1936 - 11 39690595"
+  },
+  {
+    "nome": "Carreteiro Revendedor De Petr. E Der.",
+    "endereco": "Rod. Pres. Dutra, Km 221 - Parque Cecap - Guarulhos"
+  },
+  {
+    "nome": "Catequese Auto Posto",
+    "endereco": "Av. Catequese,1253 - Vila Guiomar - Santo André"
+  },
+  {
+    "nome": "Caturama Antigo RFM",
+    "endereco": "Av. Tancredo De Almeida Neves, 581 - Cidade Claret - Rio Claro"
+  },
+  {
+    "nome": "Centro Automotivo Asas De Cumbica Ltda.",
+    "endereco": "Rua Santo Expedito, 450 - Vila Barros - Guarulhos"
+  },
+  {
+    "nome": "Centro Automotivo Dallas",
+    "endereco": "Av. Eliseu de Almeida, 2481 - Butantã, São Paulo"
+  },
+  {
+    "nome": "Centro Automotivo Noruega",
+    "endereco": "Rua Oratório, 0 - Parque Central - Santo André"
+  },
+  {
+    "nome": "Centro Automotivo Palacete Das Águas Ltda.",
+    "endereco": "Av. Washington Luis,4604 - Santo Amaro - São Paulo"
+  },
+  {
+    "nome": "Centro Comercial De Comb.Hortolândia Posto Madre",
+    "endereco": "Av. Anhanguera,150 - Vila Real - Hortolândia"
+  },
+  {
+    "nome": "Centro De Reparo Mecânico Automotivo Remosgas Ltda.",
+    "endereco": "Av Airton Pretini, 511 - Jd América Da Penha"
+  },
+  {
+    "nome": "Centro De Serviços Frango Assado Suleste Ltda",
+    "endereco": "Rodovia Dos Imigrantes, 0 - Diadema - Diadema"
+  },
+  {
+    "nome": "Chevrolet Nova Tatuapé",
+    "endereco": "Av. Celso Garcia, 5000 - Tatuapé"
+  },
+  {
+    "nome": "Chow Gas Auto Posto Ltda",
+    "endereco": "Rua Cardoso De Melo Neto, 1516 - Parque Doroteia - São Paulo"
+  },
+  {
+    "nome": "Cia Bras. De Distibuicao Loja 2301 Extra",
+    "endereco": "Rua Visconde De Taunay, 216 - Centro - Santo André"
+  },
+  {
+    "nome": "Ciara",
+    "endereco": "Av. Carlos De Campos,1042 - Pari - São Paulo"
+  },
+  {
+    "nome": "Cidade Do Sol",
+    "endereco": "Av. Francisco De Paula Leite, 2293 - Jardim Nely - Indaiatuba"
+  },
+  {
+    "nome": "Clube Dos 500 Antigo Posto E Restaurante Três Garças",
+    "endereco": "Rod. Pres. Dutra Km 60, 0 - Vila São José - Guaratinguetá"
+  },
+  {
+    "nome": "Coimbra",
+    "endereco": "Av. Dr. Orêncio Vidigal, 340 - Pena de Franca - São Paulo"
+  },
+  {
+    "nome": "Confiança Cia Ipiranga",
+    "endereco": "Av. Morvan Dias Figueiredo, 7035 - Vila Guilherme - São Paulo"
+  },
+  {
+    "nome": "Confiante",
+    "endereco": "Rodovia Washington Luiz, 0 - Km 17.533 - Jardim Anhanguera - Rio Claro"
+  },
+  {
+    "nome": "Costa Prado",
+    "endereco": "Av. Professor Alberto Valter Sachs, 2600 - Nova America - Piracicaba"
+  },
+  {
+    "nome": "Cristais Via Brasil Ltda",
+    "endereco": "Rua Felipe Camarão,461 - Tatuape - São Paulo"
+  },
+  {
+    "nome": "DDR",
+    "endereco": "Av. Duque De Caxias, 2341 - Jardim Promeca - Varzea Paulista"
+  },
+  {
+    "nome": "Duque Bandeirantes",
+    "endereco": "Rua Conceição De Monte Alegre, 1680 - Brooklin Paulista - São Paulo"
+  },
+  {
+    "nome": "Duque De Santana",
+    "endereco": "Av. Voluntários Da Pátria, 1375 - Santana - São Paulo"
+  },
+  {
+    "nome": "Ecoposto Via Brasil Ecovias",
+    "endereco": "Av. Fabio Eduardo Ramos Esquivel, 2015 - Diadema - Diadema"
+  },
+  {
+    "nome": "Express Valinhos",
+    "endereco": "Av. Dos Esportes, 1178 - Jardim São Jorge - Valinhos"
+  },
+  {
+    "nome": "Ferraz E Ferraz",
+    "endereco": "Rua Dr. Marino Costa Terra, 2467 - Vila Pagano - Valinhos"
+  },
+  {
+    "nome": "Figueira Cia Ipiranga",
+    "endereco": "Rua Lacerda Franca, 180 - Vila ArensII - Jundiaí"
+  },
+  {
+    "nome": "Flamingo",
+    "endereco": "Av. John B. Dunlop, 460 - Cidade Satelite Iris - Campinas"
+  },
+  {
+    "nome": "Flor Do Vera",
+    "endereco": "Rodovia Presidente Tancredo De A. Neves Km 39, 0 - Caieiras - Caieiras"
+  },
+  {
+    "nome": "Fórmula Gás",
+    "endereco": "Rua Dos Bandeirantes, 110 - Centro - Jundiai - São Paulo"
+  },
+  {
+    "nome": "Frango Assado Louveira",
+    "endereco": "Via Anhanguera, Km 72 - Louveira - Louveira"
+  },
+  {
+    "nome": "Frango Assado Suleste Jacareí",
+    "endereco": "Rodovia Presidente Dutra Km 65.00, 0 - Condomínio Lagoinha - Jacareí"
+  },
+  {
+    "nome": "Funchal",
+    "endereco": "Av. Funchal, 554 - Vila Olímpia - São Paulo"
+  },
+  {
+    "nome": "Gás Jundiaí",
+    "endereco": "Av. 14 De Dezembro,3200 - Vila Joana - Jundiai"
+  },
+  {
+    "nome": "Gasnag Comercio de peças para Conversão de GNV",
+    "endereco": "Rua John F. Kennedy, 225 - Mogi Guaçu - SP"
+  },
+  {
+    "nome": "Gasórios",
+    "endereco": "Av. Antonio Rosa Fioravante, 1108 - Centro - Maua - São Paulo"
+  },
+  {
+    "nome": "Gêmeos Gás",
+    "endereco": "Av. Joaquim Alves Correa, 934 - Jd. Santa Cecilia"
+  },
+  {
+    "nome": "Glaussea",
+    "endereco": "Estrada Das Lágrimas, 2200 - Vla Conde do Pinhal - São Paulo"
+  },
+  {
+    "nome": "Gmv Centro Automotivo Ltda",
+    "endereco": "Av. D. Pedro I, 1.218 - Vila Pires - Santo André"
+  },
+  {
+    "nome": "Gnv Anchieta",
+    "endereco": "Rod. Anchieta, 1103 - São Paulo - São Paulo"
+  },
+  {
+    "nome": "GNV Gás Do Brasil",
+    "endereco": "Av. 14 De Dezembro, 3100 - Vila Mafalda - Jundiai"
+  },
+  {
+    "nome": "GNV São Caetano",
+    "endereco": "Av. dos Estados, 1584 - São Caetano, São Paulo"
+  },
+  {
+    "nome": "Gold Star",
+    "endereco": "Rua Jacirendi, 850 - Tatuape - São Paulo"
+  },
+  {
+    "nome": "Guina Gnv",
+    "endereco": "Av. Marechal Tito, 3340 - São Miguel Paulista"
+  },
+  {
+    "nome": "Helix",
+    "endereco": "Rua Manoel Homem De Andrade, 20 - Jardim St. Antônio - São Paulo"
+  },
+  {
+    "nome": "Hot Gás Antigo Hot Tyres",
+    "endereco": "Av. Dr. Fabrício Vampré, 119 - Jardim Nova Italia - Limeira"
+  },
+  {
+    "nome": "Império",
+    "endereco": "Rua Joaquim Carlos, 1380 - Bras - São Paulo"
+  },
+  {
+    "nome": "Injet Gás",
+    "endereco": "Av. Mirandópolis, 482 - Vila Pompéia - Campinas"
+  },
+  {
+    "nome": "Itamarathy Auto Posto e Acessórios",
+    "endereco": "Av. Francisco Rodrigues Filho, 695 - Vila Mogilar - Mogi das Cruzes"
+  },
+  {
+    "nome": "Itaquagas",
+    "endereco": "Av. Henrique Eroles, 455 - Jardim Luciana - Itaquaquecetuba"
+  },
+  {
+    "nome": "J. Gava Auto Posto",
+    "endereco": "Rua Santo Antônio,717 - Jardim Carlos Borella - Itatiba"
+  },
+  {
+    "nome": "Jardim Da Saúde",
+    "endereco": "Av. Do Cursino,2154 - Saúde - São Paulo"
+  },
+  {
+    "nome": "Jardim Prudência",
+    "endereco": "Praça Nossa Sra. Do Perpétuo Socorro, 33 - Jardim Prudência - São Paulo"
+  },
+  {
+    "nome": "Jcn Vale",
+    "endereco": "Rua Jordania, 152 - Jardim Augusta - São José dos Campos"
+  },
+  {
+    "nome": "João XXII Automobile",
+    "endereco": "Av. José Meloni,1280 - Vila Mogilar - Mogi das Cruzes"
+  },
+  {
+    "nome": "Kgm Convertedora",
+    "endereco": "Av. Vereador Abel Ferreira, 2.750 - Água Rasa"
+  },
+  {
+    "nome": "Kll Posto De Abastecimento E Serviços",
+    "endereco": "Av. Papa João XXIII, 2009 - Vila Noemia - Mauá"
+  },
+  {
+    "nome": "Lider Santos Dumont",
+    "endereco": "Av. Do Estado, 1036 - Bom Retiro - São Paulo"
+  },
+  {
+    "nome": "Lívia Auto Posto",
+    "endereco": "Av. José Antônio De Almeida Amazonas, 551 - Vila Guiomar - Santo André"
+  },
+  {
+    "nome": "Mac Auto Posto Ltda.",
+    "endereco": "Avenida Doutor Gastão Vidigal, 1209 - Vila Leopoldina - São Paulo - SP"
+  },
+  {
+    "nome": "Macambyra Cia Ipiranga",
+    "endereco": "Rua Norma Pieruccini Gianotti, 400 - Barra Funda - São Paulo"
+  },
+  {
+    "nome": "Madalena",
+    "endereco": "Av. Dr. Arnaldo, 1611 - Sumaré - São Paulo"
+  },
+  {
+    "nome": "Mael Gás (Ismael Fernandes Bacelar)",
+    "endereco": "Av. Bartolomeu de Carlos, 245 - Jd Flor da Montanha - São paulo"
+  },
+  {
+    "nome": "Makro Patativa",
+    "endereco": "Rua Patativa, 280 - Vila Industrial - São José dos Campos"
+  },
+  {
+    "nome": "Makro Sbc",
+    "endereco": "Via Anchieta Km 16.5, 0 - Jardim Via Anchieta - São Bernardo do Campo"
+  },
+  {
+    "nome": "Maracanã",
+    "endereco": "Est. De Itapecerica, 1397 - Cidade Auxiliadora - São Paulo"
+  },
+  {
+    "nome": "Mega Shop",
+    "endereco": "Av. Santo Amaro, 2179 - Vila Nova Conceição - São Paulo"
+  },
+  {
+    "nome": "Menezes Centro Automotivo",
+    "endereco": "Av. Jk, 8208 - Vila Industrial"
+  },
+  {
+    "nome": "Mineirão",
+    "endereco": "Rua Franz De Castro Holzwarth, 51 - Santana- São José dos Campos"
+  },
+  {
+    "nome": "Modelo De Limeira",
+    "endereco": "Rua Boa Morte, 33 - Centro - Limeira"
+  },
+  {
+    "nome": "Mundo Novo",
+    "endereco": "Av. Marginal Direita, 201 - Vila Guilherme  - São Paulo"
+  },
+  {
+    "nome": "Nn Amoreiras",
+    "endereco": "Av. Amoreiras, 3.635 - Jardim do Lago - Campinas"
+  },
+  {
+    "nome": "Nn Santo André",
+    "endereco": "Av. Dos Estados,7225 - Vila Metalurgica - Santo André"
+  },
+  {
+    "nome": "Nova Laredo",
+    "endereco": "Av. Marechal Tito, 1688 - São Miguel Paulista - São Paulo"
+  },
+  {
+    "nome": "Orion Auto Posto Ltda",
+    "endereco": "Rua Santo Eurilo, 360 - Jaguaré - São Paulo"
+  },
+  {
+    "nome": "Osasgás Mooca",
+    "endereco": "Rua Fernando Falcão, 121 - Mooca - São Paulo - SP"
+  },
+  {
+    "nome": "Osasgás Osasco",
+    "endereco": "Avenida Prefeito Hirant Sanazar, 530 - Cidade De Deus"
+  },
+  {
+    "nome": "Ouro 22",
+    "endereco": "Rua Barão De Jaceguai, 1472 - Campo Belo - São Paulo"
+  },
+  {
+    "nome": "Papai Anchieta",
+    "endereco": "Rodovia Anchieta, 862 - Vila Moinho Velho - São Paulo"
+  },
+  {
+    "nome": "Paraíso II",
+    "endereco": "Av. Fuad Auada,153 - Presidente Altino - Osasco"
+  },
+  {
+    "nome": "Paraná",
+    "endereco": "Rua Alvarenga, 1071 - Butanta - São Paulo"
+  },
+  {
+    "nome": "Paulista De Americana",
+    "endereco": "Av. Paulista, 499 - Chacara Machadinho II - Americana"
+  },
+  {
+    "nome": "Pêssego Com. E Serviços Combustíveis E Lubrif. Ltda",
+    "endereco": "Av. Nova Trabalhadores Jacu Pessego, 0 - Vila Jacui - São Paulo"
+  },
+  {
+    "nome": "Pétala Azul",
+    "endereco": "Av. Alcântara Machado, 1655 - Bras - São Paulo"
+  },
+  {
+    "nome": "Petrobrás Auto Posto Duque Salim",
+    "endereco": "Avenida Salim Farah Maluf, 3400 - Vila Bertioga - São Paulo"
+  },
+  {
+    "nome": "Petrosasco",
+    "endereco": "Av. Getulio Vargas, 1485 - Jardim Piratininga - Osasco"
+  },
+  {
+    "nome": "Piraquara",
+    "endereco": "Rua Vieira De Morais, 683 - Campo Belo - São Paulo"
+  },
+  {
+    "nome": "Piu Piu Auto Center Ltda",
+    "endereco": "Rua Antonio De Barros, 2181 - Vila Carrao - São Paulo"
+  },
+  {
+    "nome": "Planeta Gás",
+    "endereco": "Rua Carolina Florence, 899 - Vila Nova"
+  },
+  {
+    "nome": "Popular",
+    "endereco": "Av. Jabaquara, 1966 - Mirandópolis - São Paulo"
+  },
+  {
+    "nome": "Portal Das Perdizes Nn Sumaré",
+    "endereco": "Rua Franco Da Rocha, 664 - Perdizes - São Paulo"
+  },
+  {
+    "nome": "Portal De Poá Auto Posto",
+    "endereco": "Rua Euclides Da Cunha, 314 - Vila bandeirantes - Poá"
+  },
+  {
+    "nome": "Portal São Bernardo",
+    "endereco": "Av. Sen. Vergueiro X Av. Winston Churchil, 0 - Jardim Copacabana - São Bernardo do Campo"
+  },
+  {
+    "nome": "Posto Amigão De Itupeva",
+    "endereco": "R. Adelia De Oliveira, 30 - Itupeva - Itupeva"
+  },
+  {
+    "nome": "Posto Andorinhas Ltda",
+    "endereco": "Av. José De Souza Campos, 2101 - Cambui - Campinas"
+  },
+  {
+    "nome": "Posto Bg GNV",
+    "endereco": "Av. João Dias, 1.978 - Santo Amaro - São Paulo"
+  },
+  {
+    "nome": "Posto Brasil Gás Sumaré",
+    "endereco": "Rua França, 15 - Jardim Santa Maria Nova Veneza - Sumaré"
+  },
+  {
+    "nome": "Posto De Gás Natural Taubaté",
+    "endereco": "Av. Dom Pedro I, 5391 - Jardim Baronesa - Taubaté"
+  },
+  {
+    "nome": "Posto De Serviço Iramaia Morumbi Ltda",
+    "endereco": "Av. Roque Petroni Jr, 984 - Jardim das Acácias - São Paulo"
+  },
+  {
+    "nome": "Posto De Servicos Aut. Juriti De Guarulhos Ltda",
+    "endereco": "Rua Tamotsu Iwasse,1250 - Vila Nova Bonsucesso - Guarulhos"
+  },
+  {
+    "nome": "Posto De Serviços Bolla Branca",
+    "endereco": "Av. João Batista De Souza Soares, 255 - Jardim América - São José dos Campos"
+  },
+  {
+    "nome": "Posto De Serviços Cacique",
+    "endereco": "Av. Monteiro Lobato, 2950 - Vila Miriam - Guarulhos"
+  },
+  {
+    "nome": "Posto De Serviços Duque Alphaville Ltda.",
+    "endereco": "Alameda Rio Negro, 600 - Alphaville Industrial - Barueri"
+  },
+  {
+    "nome": "Posto De Serviços Falke Guaximim",
+    "endereco": "Av. Pires Do Rio, 1784 - Jardim São Sebastião - São Paulo"
+  },
+  {
+    "nome": "Posto De Serviços Gas Dutra Platanos",
+    "endereco": "Rod. Presidente Dutra, Km 225 - Parque CECAP - Guarulhos"
+  },
+  {
+    "nome": "Posto Dutrão",
+    "endereco": "Av. Nações Unidas, 12.071 - Itaim Bibi - São Paulo"
+  },
+  {
+    "nome": "Posto e Restaurante Três Garças",
+    "endereco": "Rod. Pres. Dutra Km 59, 0 - Vila São José - Guaratinguetá"
+  },
+  {
+    "nome": "Posto Garcia De Campinas Ltda",
+    "endereco": "Rod. Anhanguera, Km 99 S / N - Jardim Eulina - Campinas"
+  },
+  {
+    "nome": "Posto Gp GNV Ltda",
+    "endereco": "Av. Giovanni Battista Pirelli, 1789 - Vila Homero Thon - Santo André"
+  },
+  {
+    "nome": "Posto Indaiatuba Ap Visconde",
+    "endereco": "Av. Visconde De Indaiatuba, 1076 - Jardim Servilha - Indaiatuba"
+  },
+  {
+    "nome": "Posto Jardim Okinawa Ltda",
+    "endereco": "Av. Jose Alvaro Delmonde, 53 - Paulinia - Paulinia"
+  },
+  {
+    "nome": "Posto Maxxi GNV",
+    "endereco": "Av. Alcindo Barbosa, 1335 - Parque da Imprensa - Mogi Mirim"
+  },
+  {
+    "nome": "Posto Novo Chapadão",
+    "endereco": "Av. Dr. Francisco Mais, 650 - Jardim Chapadão - Campinas"
+  },
+  {
+    "nome": "Posto Oasis De Limeira",
+    "endereco": "Av. Major Levy Sobrinho, 11516 - Jardim Nereide - Limeira"
+  },
+  {
+    "nome": "Posto Quality Casablanca Ltda",
+    "endereco": "Av Armando Salles De Oliveira, 2185 - Parque Suzano - Suzano"
+  },
+  {
+    "nome": "Posto Renascença",
+    "endereco": "Av. Presidente Vargas, 833 - Itapevi - Itapevi"
+  },
+  {
+    "nome": "Posto Sena Park",
+    "endereco": "Av. Sena Madureira, 1490 - Vila Mariana - São Paulo"
+  },
+  {
+    "nome": "Posto Vila Rica São Cristovão",
+    "endereco": "Av. Minas Gerais, 300 - Retiro da Mantiqueira - Cruzeiro"
+  },
+  {
+    "nome": "Promissão A P Ltda.",
+    "endereco": "Av. Pres. Kennedy, 5.031 - Vila Julieta - São Paulo"
+  },
+  {
+    "nome": "Qualitá",
+    "endereco": "Rua Sarapuí, 277 -  Mooca - São Paulo"
+  },
+  {
+    "nome": "Queops Auto Posto Ltda",
+    "endereco": "Rua Princesa Francisca Carolina, 211 - Jardim Nova Petropolis - São Bernardo do Campo"
+  },
+  {
+    "nome": "Quinta Marcha",
+    "endereco": "Av. Washington Luis, 1171 - Santo Amaro - São Paulo"
+  },
+  {
+    "nome": "Rede De Postos Sete Estrelas Crylor",
+    "endereco": "Rua Benedito Juliao Machado, 49 - Vila Guarani - São José dos Campos"
+  },
+  {
+    "nome": "Rede De Postos Sete Estrelas Ltda Tigrão",
+    "endereco": "Rodovia Presidente Dutra, Km 133 - Vila Antonio Augusto Luiz - Caçapava"
+  },
+  {
+    "nome": "Rede De Postos Sete Estrelas Penedo",
+    "endereco": "R. Penedo, 1051 - Jardim Petropolis, São José dos Campos"
+  },
+  {
+    "nome": "Rede De Postos Sete Estrelas Taubaté",
+    "endereco": "Av. Charles Schnneider, 1775 - Estiva - Taubaté"
+  },
+  {
+    "nome": "Rede De Postos Sete Estrelas Tejo",
+    "endereco": "Rua Paraibuna, 1340 - Jardim São Dimas - São José dos Campos"
+  },
+  {
+    "nome": "Rede De Postos Sete Estrelas Tropical",
+    "endereco": "Av. Dr. Sebastião Henrique Da Cunha Pontes, 5830 - PQ Resid Aquarius - São José dos Campos"
+  },
+  {
+    "nome": "Remanso",
+    "endereco": "Rua Luis Camilo De Camargo, 840 - Loteam Remanso Campineiro - Hortolândia"
+  },
+  {
+    "nome": "Rio Clarense Via Brasil",
+    "endereco": "Rua 22, 0 - Jardim Claret - Rio Claro"
+  },
+  {
+    "nome": "Rio Guaçu",
+    "endereco": "Av. Waldemar Armani, 300 - Mogi Guaçu - Mogi Guaçu"
+  },
+  {
+    "nome": "Rodagás",
+    "endereco": "Rua Antonio Frederico, 716 - Vila Carioca"
+  },
+  {
+    "nome": "Rodocamp Auto Service",
+    "endereco": "Av. Mercedez Benz, 8907 - Distrito Industrial de Campinas - Campinas"
+  },
+  {
+    "nome": "Rodrigão",
+    "endereco": "Av. Siqueira Campos,641 - Jardim Esper - Jacareí"
+  },
+  {
+    "nome": "Rodrigo Gustavo Toledo Soares (Gasflex)",
+    "endereco": "Rua Santarem, 433 - Parque Industrial - São José dos Campos - São Paulo"
+  },
+  {
+    "nome": "Romano Import de Veículos Ltda",
+    "endereco": "Rua Visconde de Parnaíba, 589 - Brás - São Paulo - SP"
+  },
+  {
+    "nome": "Rota 116",
+    "endereco": "Rod. Regis Bitencourt, Km 270 - Jardim Monte Alegre - Taboão da Serra"
+  },
+  {
+    "nome": "Santa Cecília Cia Ipiranga",
+    "endereco": "R. Frederico Steidel, 58  Sta Cecília - Vila Buarque - São Paulo"
+  },
+  {
+    "nome": "Santa Rita Br",
+    "endereco": "Est. de Itapecerica, 1322 - Cidade Auxiliadora - São Paulo"
+  },
+  {
+    "nome": "São Francisco",
+    "endereco": "Av. Corifeu De Azevedo Marques, 5842 - Vila Lageado - São Paulo"
+  },
+  {
+    "nome": "São João Via Brasil",
+    "endereco": "Av. São João, 240 - Vila Joana - Jundiai"
+  },
+  {
+    "nome": "Servacar",
+    "endereco": "Av. Professor Luis Inácio Anhaia Mello, 6.143 - Vila Ema - São Paulo"
+  },
+  {
+    "nome": "Servacar Com. E Serv. Ltda. Ss Osasco",
+    "endereco": "Av Dos Autonomistas, 1987 - Vila Yara - Osasco"
+  },
+  {
+    "nome": "Sete Estrelas Caçapava",
+    "endereco": "Rua Professor João Batista Ortiz Monteiro, 613 - Vila Antônio Augusto Luiz - Caçapava"
+  },
+  {
+    "nome": "Sete Estrelas Com. E Der. De Petr. Bandeirantes",
+    "endereco": "Av. Bandeirantes, 5236 - Centro - Taubaté"
+  },
+  {
+    "nome": "Sete Estrelas Cruzeiro",
+    "endereco": "Rua Rotary Clube, 768 - Jardim América - Cruzeiro"
+  },
+  {
+    "nome": "Sete Estrelas Jacareí",
+    "endereco": "Av. Getúlio Dorneles Vargas, 2700 - Jardim Califórnia - Jacareí"
+  },
+  {
+    "nome": "Ss Nova Mauá Vanessa Santos Silva",
+    "endereco": "Av. Giovanni Battista Pirelli, 1980 - Vila Homero Thon - Santo André"
+  },
+  {
+    "nome": "Start Auto Posto",
+    "endereco": "Rua São Raimundo, 2125 - Vila Califórnia - São Paulo"
+  },
+  {
+    "nome": "Super Posto Flor Do Carrão",
+    "endereco": "Av. Conselheiro Carrão, 2.673 - Vila Carrao - São Paulo"
+  },
+  {
+    "nome": "Super Tof",
+    "endereco": "Av. Dos Esportes, 1092 - Jardim São Jorge - Valinhos"
+  },
+  {
+    "nome": "Suzan Petro",
+    "endereco": "Av. Ver. João Baptista Fitipaldi, 300 - Vila Maluf - Suzano"
+  },
+  {
+    "nome": "Systemgás Gnv",
+    "endereco": "Rua Joaquim Nabuco, 719 - Centro"
+  },
+  {
+    "nome": "Tangerinas Cia Ipiranga",
+    "endereco": "Rua Das Tangerinas,353 - Casa Verde Media - São Paulo"
+  },
+  {
+    "nome": "Tempus Com. e Participações",
+    "endereco": "Rua Da Coroa, 1810 - Vila Guilherme - São Paulo"
+  },
+  {
+    "nome": "Tenda GNV Com De Comb E Gas Natural Veicular Ltda",
+    "endereco": "Av. Da Agricultura, 0 - Vila Mollon IV - Santa Barbara"
+  },
+  {
+    "nome": "Terra Gás",
+    "endereco": "Av. Piracicamirim, 2819 - Piracicaba - São Paulo"
+  },
+  {
+    "nome": "Tex Auto Posto Ltda",
+    "endereco": "Av. Airton Pretini, 539 - Jardim America da Penha - São Paulo"
+  },
+  {
+    "nome": "Texaco Brasil Ltda Sucão",
+    "endereco": "Rua Julia Maria Galieta, 19 - Jardim Nova Terra Nova Veneza - Sumaré"
+  },
+  {
+    "nome": "Tiger",
+    "endereco": "Av. Limeira , 950 - Vila Areao - Piracicaba"
+  },
+  {
+    "nome": "Tutóia",
+    "endereco": "Rua Dr. Amâncio De Carvalho,26 - Vila Mariana - São Paulo"
+  },
+  {
+    "nome": "Umarizal",
+    "endereco": "Estrada do Campo Limpo, 5431 - Pirajussara - São Paulo"
+  },
+  {
+    "nome": "Universidade",
+    "endereco": "Av. Vital Brasil, 991 - Butanta - São paulo"
+  },
+  {
+    "nome": "Vano Autopeças - Eireli (Eco Car)",
+    "endereco": "Rua Júlio de mesquita , 77 - Vila Mathias"
+  },
+  {
+    "nome": "Via Veneto",
+    "endereco": "Av. Condessa Eliabeth Robiano, 2222 - Jardim America da Penha - São Paulo"
+  },
+  {
+    "nome": "Vip",
+    "endereco": "Av. Senador Vergueiro,1032 - Jardim do Mar - São Bernardo do Campo"
+  },
+  {
+    "nome": "Vitrine",
+    "endereco": "Av. Nelson D Ávila, 1810 - Vila Betânia - São José dos Campos"
+  },
+  {
+    "nome": "VIVA GNV",
+    "endereco": "Rua Hipia, 109 - Mooca - São Paulo"
+  },
+  {
+    "nome": "Walbrax 1 Auto Center",
+    "endereco": "Av. Pires Do Rio, 458 - Vila Americana - São Paulo"
+  },
+  {
+    "nome": "Wellcome",
+    "endereco": "Av. Das Belezas,513 - Vila Prel - São Paulo"
+  },
+  {
+    "nome": "Wf Jundiaí",
+    "endereco": "Rua Brasil, 2272 - Vila Isabel Eber - Jundiai"
+  },
+  {
+    "nome": "Wgás Ii Rsb",
+    "endereco": "Av. Senador Teotonio Vilela, 2004 - Cidade Dutra - São Paulo"
+  },
+  {
+    "nome": "Zangão Serviços Automotivos",
+    "endereco": "Av. Goiás, 3144 - Barcelona - São Caetano do Sul"
+  }
+]
