@@ -1,0 +1,1774 @@
+[
+	{
+		"nome": "Auto Posto Café (gnc)",
+		"endereco": "Rua Itatiaia, s/nº - Japuíba - Angra dos Reis - Rio de Janeiro"
+	},
+	{ 	 
+		"nome": "Coqueiral (gnc)",
+		"endereco": "Rodovia Amaral Peixoto, 90031 (Km 88) - Coqueiral - Araruama - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Praia Grande",
+		"endereco": "Rua Rebech, 200 - Arraial do Cabo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Colorado",
+		"endereco": "Rua Frutuoso Gil Gonçalves, 8 - Barra do Piraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nova Barra",
+		"endereco": "Av. Prefeito Arthur Costa, 500 - Barra do Piraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Vicente da Barra",
+		"endereco": "Av. Prefeito Arthur Costa, 988 - Barra do Piraí - Rio de Janeiro"
+	},	 
+	{	 
+		"nome": "Auto Posto Figueira",
+		"endereco": "Av. Prefeito Arthur Costa, Lt. 1 - Barra do Piraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gás Java",	 
+		"endereco": "Rua Paulo Fernandes, 224 - Lt. 9 e 10 - Barra do Piraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jalisco",
+		"endereco": "Rua Angélica, 127 e 137 - Centro - Barra do Piraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Oswaldo Jud",
+		"endereco": "Av. Ary Fontenelle, 353 - Barra Mansa - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Andressa",
+		"endereco": "Av. Dr. Francisco Vilela Andrade Neto, 13 B - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jofave",
+		"endereco": "Via Sérgio Braga, S/N - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Metano",
+	    "endereco": "Rodovia Presidente Dutra Km 269, 0 - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bocaininha",	 
+		"endereco": "Av. Ministro Amaral Peixoto, 800 - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Qualidade",
+		"endereco": "Av. Ministro Amaral Peixoto, 635 - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Tupy",
+		"endereco": "Rua Domingos Mariano, 510 - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto 1000",
+		"endereco": "Av. 3 de Outubro, 411 - Jardim Boa Vista - Barra Mansa - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Providência",
+		"endereco": "Av. Joaquim da Costa Lima, 2999 - Belford Roxo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Capitão de Belford Roxo",
+		"endereco": "Av. Prefeito Jorge Júlio C. dos Santos, 350 - Belford Roxo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Tri de Belford Roxo",
+		"endereco": "Av. Benjamin Pinto Dias, 1.131 - Centro - Belford Roxo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Boa Viagem",	 
+	    "endereco": "Rodovia Presidente Dutra Km 172.5, 0 - Belford Roxo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Belford Roxo",
+		"endereco": "Rua Dr. Carvalhães, 10 - Belford Roxo - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Trabalho Xx",
+	    "endereco": "Rua Doutor Carvalhaes, 10 - Belford Roxo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Imperador Ii",
+		"endereco": "Rua Benjamim Pinto Dias, 1.530 - Loja A - Centro - Belford Roxo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cabo Frio de Gnv",
+		"endereco": "Av. América Central, 1.815 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Aquarius de Cabo Frio",
+		"endereco": "Rodovia Amaral Peixoto, s/nº - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Caminho do Sol - Cabo Frio",
+		"endereco": "Av. Júlia Kubtscheck, 30 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto das Dunas",
+	    "endereco": "Rodovia Estadual RJ 140 Km 13, 0 -  Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Cabo Frio",
+		"endereco": "Av. América Central, 900 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Petrolagos",
+		"endereco": "Av. América Central, 2.431 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Portal das Dunas",
+		"endereco": "Av. Teixeira e Souza, 2677 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Via Mar",
+		"endereco": "Av. Teixeira de Souza, S/N - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Itajuru",
+		"endereco": "Av. Júlia Kubitscheck, 3 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto do Cabo",
+		"endereco": "Av. América Central, 2.270 - Cabo Frio - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Salinas",	 
+		"endereco": "Av. Joaquim Nogueira, 1.500 - São Cristóvão - Cabo Frio - Rio de Janeiro"
+    },
+    {
+        "nome": "Arara Fluminense Comércio Comb.",
+		"endereco": "Rua Alberto Torres, 100 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Campos Garoupa",
+		"endereco": "Av. 15 de Novembro, 353 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Campos",
+		"endereco": "Av. Silvio Bastos Tancredo, 254/314 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sga Interlagos Campos",
+		"endereco": "Av. Tarcísio Miranda, 454 - Campos dos Goytacazes - Rio de Janeiro"
+    },
+	{
+        "nome": "Wafaroga Com. e Derivados de Petróleo",
+		"endereco": "Rua Messias Urbano dos Santos, 56 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Combustíveis Contorno Campos",
+		"endereco": "Rua Gumercindo de Freitas, 190 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Combustíveis Contorno Campos",
+		"endereco": "Av. Nilo Peçanha, 614 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cordeiro Barroso",
+		"endereco": "Av. 28 de Março, 458 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Líder",
+		"endereco": "Av. 15 de Novembro, 563 / 585 - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Top Set",	 
+		"endereco": "Av. Oswaldo Cardoso de Melo, 295 - Campos dos Goytacazes - Rio de Janeiro"
+    },
+    {
+        "nome": "Rede Arara Azul Filial Campos Centro",	 
+		"endereco": "Rua Vinte e Oito de Março, 643 - Centro - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jardim das Acácias",
+		"endereco": "Av. Tarcísio Miranda, 23 - Parque Bela Vista - Campos dos Goytacazes - Rio de Janeiro"
+    },
+    {
+        "nome": "Rede Arara Azul Filial Pq. ´tamandaré",
+		"endereco": "Rua Bruno Azevedo, 12 - Parque Tamandaré - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Turf Club",	 
+		"endereco": "Rua Riachuelo, 652/658 - Turf Club - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Salvador ( Filial)",	 
+		"endereco": "Av. 24 de Outubro, 109 / 113 - Turf Club - Campos dos Goytacazes - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sga Interlagos Combustíveis",
+		"endereco": "Av. Vinte e Oito de Março, 143 - Turfe - Campos dos Goytacazes - Rio de Janeiro"	 
+    },
+    {
+        "nome": "Auto Posto Barra de Casimir",
+	    "endereco": "Rodovia Amaral Peixoto Km 142, 0 - Casimiro de Abreu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Bragal",	 
+		"endereco": "Rodovia BR-101 s/n, km 206 - Casimiro de Abreu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São João dos Lagos",
+	    "endereco": "Rodovia Amaral Peixoto Km 42, 0 - Casimiro de Abreu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bariloche",
+		"endereco": "Av. Presidente Kennedy, 5.882 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Coronel Sisson",
+		"endereco": "Av. Coronel Sisson, 2.075 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho Xvii",
+		"endereco": "Rodovia Washington Luiz, 6.573 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto 2000 de Caxias",
+		"endereco": "Av. Presidente Kennedy, 7.405 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Nova Primavera Ii",
+		"endereco": "Rodovia Washington Luiz, 14.335 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Estrela Guia da Taquara",
+		"endereco": "Av. Automóvel Clube, 4.824 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Eurogás de Caxias",
+		"endereco": "Av. Presidente Kennedy, 933 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jb Caxias",
+		"endereco": "Rodovia Washington Luiz, 14.275 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ma",
+		"endereco": "Av. Presidente Kennedy, 2.589 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Neo Exata",
+		"endereco": "Rua Evaristo de Veiga, 120 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Neo Exata",
+		"endereco": "Rua Evaristo da Veiga, 120 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Jorge",
+		"endereco": "Av. Duque de Caxias, 641 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Jorge de Sta. Cruz da Serra",
+        "endereco": "Av. Automóvel Clube, 1.710 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+        "nome": "Prefeitura de Duque de Caxias",
+		"endereco": "Rua Silva Fernandes, 0 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Campeão da Estrad",
+		"endereco": "Rodovia Washington Luiz, 5.587 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Vitóri",
+		"endereco": "Av. Vitória, 2.075 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bagás",
+		"endereco": "Rua Fabor, 3.200 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Capivari Ii",
+		"endereco": "Rodovia Washington Luiz, 3.921 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Duck",
+		"endereco": "Av. Brigadeiro Lima e Silva, s/nº - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Caxias",
+		"endereco": "Rodovia Washington Luiz, 5.609 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Parada Angél",
+		"endereco": "Av. Automóvel Clube, 9.194 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Washington Luiz Iii",
+		"endereco": "Rodovia Washington Luiz, 12.420 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Peraltas",	 
+		"endereco": "Av. Brigadeiro Lima e Silva, 916 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+        "nome": "Augmar Comércio",
+		"endereco": "Rua Marechal Floriano, 793 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gastron Caxias",
+		"endereco": "Rodovia Washington Luiz, 2.240 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Golf",
+		"endereco": "Rodovia Washington Luiz, 13.500 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Purogás (ex Farol)",
+		"endereco": "Rodovia Washington Luiz, 14.689 - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Figueira",
+		"endereco": "Rodovia Washington Luiz, 14.131 - Jardim Gramacho - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Thayluan",
+		"endereco": "Av. Automóvel Clube, Km 57 - Parada Angél - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviços Brigadeiro Lima e Si",	 
+        "endereco": "Av. Brigadeiro Lima e Silva, 422 - Duque de Caxias - Rio de Janeiro"
+    },
+    {
+	    "nome": "Chacrinha Posto de Serviços Ltda",
+		"endereco": "Rodovia Washington Luiz, 4.492 - Vila São Luiz - Duque de Caxias - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Alto da Serra",
+		"endereco": "Estrada Presidente Pedreira, 925 - Engenheiro Paulo de Frontin - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Parada Modelo",	 
+		"endereco": "Rodovia Rio-Teresópolis Km 106, 0 - Parada Modelo - Guapimirim - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cidade Gebara",
+	    "endereco": "Rodovia BR 493 Km 3.5, 0 - Itaboraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto F1 Racing",
+        "endereco": "Av. 22 de Maio, S/N - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Rede Arara Azul Filial Itaboraí",
+	    "endereco": "Rodovia BR 101 Km 297.9, 0 - Itaboraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Dynamus",
+	    "endereco": "Rodovia BR 101 Km 25, 0 - Itaboraí - Rio de Janeir0"
+	},
+	{
+		"nome": "Posto Juanoto",
+	    "endereco": "Rodovia BR 101, 0 - Trevo de Manilha - Itaboraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mac Hero",
+	    "endereco": "Rodovia BR 101, S/N - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Gomes Nogueir",
+		"endereco": "Rodovia BR 101 Km 288, 0 - Caluge - Itaboraí - Rio de Janeiro"
+	},
+	{
+        "nome": "Posto Duque Manilha",
+        "endereco": "Rodovia BR 101 Km 45, 0 - Calundu - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Centro Automotivo Número 1 de Itaboraí",
+		"endereco": "Av. 22 de Maio, 6900 - Centro - Itaboraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Giromanilha",
+	    "endereco": "Rodovia BR 101, S/N - Jardim Maravilha - Itaboraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Via Gás",	 
+		"endereco": "Av. 22 de Maio, s/n - Ret. São Joaquim - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Manilha Mag",
+	    "endereco": "Rodovia BR 493 Km 3.5, 0 - Santo Antonio - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho Xviii",
+	    "endereco": "Rodovia BR 101 Km 25.5, 0 - São Joaquim - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho Xxiii",
+	    "endereco": "Rodovia BR 101 Km 25.5, 0 - São Joaquim - Itaboraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Geranius",	 
+        "endereco": "Rodovia BR-101 - Km 293, Estaca 128 - São Joaquim - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Danilso Costa & Cia.",
+		"endereco": "Av. 22 de Maio, 7.957 - Venda das Pedras - Itaboraí - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Trabalho Xxxiii",
+		"endereco": "Rodovia Rio-Santos, s/n° - Itaguaí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Vani",
+		"endereco": "Av. Piranema, 116 - Itaguaí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Madrugada",
+        "endereco": "Rodovia Rio-Santos, Km 17,5 - Lt. 1 - Itaguaí - Rio de Janeiro"
+    },
+	{
+		"nome": "Posto Brasil 2000",	 
+		"endereco": "Estr. Piranema, 919 - Centro - Itaguaí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São José Baptista",
+		"endereco": "Praça Washington Luiz, 59 - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Serramar",
+		"endereco": "Rua Dr. Telio Barreto, 1.074 - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Trevo Litoral",
+	    "endereco": "Rodovia RJ 168, 1178 - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São João de Macaé",	 
+        "endereco": "R José de Aguiar Franco, 0 - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Princesinha do Atlântico",	 
+		"endereco": "Av. Rui Barbosa, 1.291 - Centro - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Imboass",
+	    "endereco": "Rodovia Amaral Peixoto RJ 106 Km 164.7, 0 - Jardim Guanabara - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Lagomar",
+		"endereco": "Rodovia Amaral Peixoto RJ-106 Km 184, s/n - Lagomar - Macaé - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Fragoso",
+		"endereco": "Av. Automóvel Clube, Km 61 - Fragoso (Al.Eduardinho com Av. Automóvel Clube - RJ-107) - Magé - Rio de Janeiro"
+    },
+	{
+		"nome": "Posto Metanauto",
+		"endereco": "Av. Presidente Costa e Silva, S/N - Centro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Metanauto 2",
+		"endereco": "Av. Presidente Costa e Silva, 535 - Centro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Servauto",
+		"endereco": "Rua Lúcio Tavares, 310 - Nilópolis - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto King Kong",
+		"endereco": "Rua Visconde do Rio Branco, 756 - Niterói - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Trabalho Xxxi",
+		"endereco": "Av. Dr. Mario Viana, 264 - Niterói - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Monsenhor Escr",
+		"endereco": "Alameda São Boaventura, 246 - Niterói - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Confiança",
+		"endereco": "Rua General Andrade Neves, 113 - Centro - Niterói - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Cubango",
+		"endereco": "Rua Noronha Torrezão, 531 - Cubango - Niterói - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Master do Fons",
+		"endereco": "Alameda São Boaventura, 1.030 - Fons - Niterói - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto,",
+		"endereco": "Av. Jansen de Melo, 417 - São Lourenço - Niterói - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina do Netinho",
+		"endereco": "Av. Dr. Barros Júnior, 1.511 - Nova Iguaçu - Rio de Janeiro"
+    },
+	{
+		"nome": "Posto Capitão da Posse",
+		"endereco": "Rua Geni Saraiva, 10 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Abastecimento Dani",
+		"endereco": "Av. Governador Roberto da Silveira, 375 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rei da Posse",
+		"endereco": "Av. Henrique Duque Estrada Mayer, 693 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rei de Nova Iguaçu",
+		"endereco": "Estrada Abílio Augusto Távora, 388 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Via Light D Iguaçu",
+		"endereco": "Rua Coronel Francisco Soares, 554 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Realeza",
+		"endereco": "Av. Governador Roberto Silveira, 1366 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Light Higway",
+		"endereco": "Estrada Plínio Casado, 36 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mega Iguaçu",
+		"endereco": "Estrada Abílio Augusto Távora, 3.500 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mata Virgem",
+		"endereco": "Rodovia Presidente Dutra, 21.099 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serv. Shopping Madureira",	 
+		"endereco": "Av. Abílio Augusto Távora, 1 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Km 13 da Dutra Ltda.",
+		"endereco": "Rodovia Presidente Dutra Km 13, 13.006 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vpl 2004",	 
+		"endereco": "Est. Rio-São Paulo, 149 - Parque São Francisco - Nova Iguaçu - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Via Dutra 01", 
+		"endereco": "Rodovia Presidente Dutra, 17.500 - Nova Iguaçu - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Alternativo",
+		"endereco": "Estrada RJ-127, 0 - Paracambi - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Alaor Alves Barbosa",	 
+		"endereco": "Rua Nair Ramalho, 10 - Centro - Paracambi - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Lageense",
+		"endereco": "Rodovia RJ-127, Km 10 - s/n° - Lages - Paracambi - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Baía de Paraty",
+		"endereco": "Av. Roberto da Silveira, s/nº - Ponte Branca - Paraty - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Coronel Veiga",
+		"endereco": "Rua Coronel Veiga, 259 - Petrópolis - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Regente",
+		"endereco": "Rua Coronel Veiga, 1271 - Petrópolis - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Nino`s",
+		"endereco": "Av. Barão do Rio Branco, 10 - Centro - Petrópolis - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vep de Petrópolis (quitandinha)",
+		"endereco": "Av. Ayrton Senna, 545 - Quitandinha - Petrópolis - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Gás Tudo Móve",
+		"endereco": "Rua General Rondon, 880 - Quitandinha - Petrópolis - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Ted de Piraí",
+		"endereco": "Rua Bulhões de Carvalho, 440 - Casa Amar - Piraí - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto B.r. Pereira",
+		"endereco": "Rua Vereador Marinho H. Oliveira, 1201 - Centro - Queimados - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Queimados Rio",
+		"endereco": "Rua Naldy, Qd. 10, Lts. 01 a 06 - Jardim do Trevo - Queimados - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Presidente",
+		"endereco": "Av. Dr. Jefferson Geraldo Bruno, 2.850 - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bd-2",
+		"endereco": "Av. Presidente Vargas, 301 - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Primeirão de Resende",
+		"endereco": "Av. Dorival Marcondes Godoy, s/nº - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Boldgás",
+		"endereco": "Av. General A. Fonseca, 263 - Lote Manejo - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sul Americano",
+		"endereco": "Rodovia Presidente Dutra, s/n - Km 306 - Alambari - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Combustíveis Acesso Oeste Ltda.",	 
+		"endereco": "Estrada Resende Riachuelo, 1.700 Km 3 - Cidade Alegria - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mar Dias",
+		"endereco": "Av. Marcílio Dias, 673 - Jardim Jalisco - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Luemon",	 
+		"endereco": "Rodovia Presidente Dutra Lateral, Km 304 - Paraíso - Resende - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santini",
+		"endereco": "Rodovia BR-393, Km 200 - Abarracamento - Rio das Flores - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rio das Ostras Ltda.",	 
+		"endereco": "Estrada Amaral Peixoto, s/nº - Km 148 - Centro - Rio das Ostras - Rio de Janeiro"
+    },
+	{
+		"nome": "Posto Wm",
+		"endereco": "Av. Dom Helder Câmara, 7.832 - Abolição - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Primeiro",
+		"endereco": "Av. Dom Helder Câmara, 7.208 - Abolição - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cordeiro Ii (filial Acari)",
+		"endereco": "Rua Pedro Jório, 415 - Acari - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Divina Luz de Anchi",
+		"endereco": "Av. Nazaré, 2796 - Anchi - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Gardênia Azul",
+		"endereco": "Av. Ten. Cel. Muniz de Aragão, s/nº - Anil - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto J. Lopes",
+		"endereco": "Estrada de Jacarepaguá, 6.346 - Anil - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Jerônimo do Anil",
+		"endereco": "Estrada de Jacarepaguá, 6.580 - Anil - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Ml de Ana Neri (rede Ml)",
+		"endereco": "Rua Ana Neri, 282 - B - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto e Garagem Echeveria",
+		"endereco": "Rua Senador Bernardo Monteiro, 99 - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gás Perfeito",
+		"endereco": "Rua Prefeito Olímpio de Melo, 1083 - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Meia No",
+		"endereco": "Rua São Luiz Gonzaga, 2.286 - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Luiz Gonzaga",
+		"endereco": "Rua São Luiz Gonzaga, 1890 - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho Xi",
+		"endereco": "Av. Brasil, 1.957 - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviços e Abastecimento 3r",	 
+		"endereco": "Rua São Luiz Gonzaga, 2.331 - B - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Parada da Praça",
+		"endereco": "Av. Santa Cruz, 5450 - Bangu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Bangu",
+		"endereco": "Rua da Feira, 115 - Bangu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Fabiana Oeste",
+		"endereco": "Av. Brasil, 34.500 - Bangu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cidade Bangu",
+		"endereco": "Rua Francisco Real, 1933 - Bangu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Oliveirense",	 
+		"endereco": "Rua Francisco Real, 1.116 - Bangu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Docinho",
+		"endereco": "Av. Santa Cruz, 6.075 - Bangu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Alvorada",
+		"endereco": "Av. Ayrton Senna, 2.541 - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bravo (via Parque)",
+		"endereco": "Av. Ayrton Senna, 3.000 - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nova Ipanema (marina da Barra)",
+		"endereco": "Av. das Américas, 4.399 - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Barra",
+		"endereco": "Av. Érico Veríssimo, 1.060 conf. Rua Euvaldo Lodi - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Linha Amarela (barragás)",	 
+		"endereco": "Av. Ayrton Senna, 9.201 - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mega Verão",
+		"endereco": "Av. Grande Canal, 299 - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Lord Barra Sul",
+		"endereco": "Av. das Américas, 11.555 - Barra da Tijuca - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Futuro de Gnv",
+		"endereco": "Av. Brasil, 5721 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Almada",
+		"endereco": "Av. Paris, 538 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Álvaro da Costa Mello",
+		"endereco": "Rua Dona Cantilda, 1 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nações",
+		"endereco": "Rua Dona Isabel, 06 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nova Jerusalém",
+		"endereco": "Av. Brasil, 5.810 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Brasil Grande",	 
+		"endereco": "Av. Brasil, 6.261 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Diana",
+		"endereco": "Av. Brasil, 5546 - Bonsucesso - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Gnomo",
+		"endereco": "Rua Visconde Silva, 80 - Botafogo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rocal",
+		"endereco": "Rua General Polidoro, 224 - Botafogo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pasmado",
+		"endereco": "Rua General Goes Monteiro, 195 - Botafogo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto",
+		"endereco": "Rua Mena Barreto, 38 - Botafogo - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho Vi",
+		"endereco": "Av. Meriti, 2940 - Brás d - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Rally",
+		"endereco": "Rua Guaporé, 126/130 - Brás d - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Jana (rede Ml)",
+		"endereco": "Rua Itabira, 521 - Brás d - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Brás D",
+		"endereco": "Rua Bento Cardoso, 774 - Brás d - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Lm & Jb",
+		"endereco": "Av. Meriti, 3.027 - Brás d - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto e Garagem São Lourenço",
+		"endereco": "Rua Ferreira de Andrade, 471 - Cachambi - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Reginas",	 
+		"endereco": "Av. Brasil, 2.190 - Caju - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Joinha",	 
+		"endereco": "Rua Cândido Benício, 687 - Campinho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Estrada Via Barra",
+		"endereco": "Estrada da Cachamorra, 1081 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto West Point Car",
+		"endereco": "Estrada do Mendanha, 1.518 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Tingui",
+		"endereco": "Estrada do Tingui, S/N - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Aliança de Campo Grande",
+		"endereco": "Av. Santa Cruz, 11325 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviços West Shopping",
+		"endereco": "Estrada da Posse, 3185 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Grande Oeste (rede Ml)",
+		"endereco": "Estrada do Mendanha, 3246 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Guerreira",
+		"endereco": "Rua Augusto Vasconcelos, 1.119 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Namorado",
+		"endereco": "Estrada Rio - São Paulo, 2174 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Palmares",
+		"endereco": "Av. Brasil, 50.660 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Wal Campo Grande",
+		"endereco": "Rua Barcelos Domingos, nº 123 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto do Pré",
+		"endereco": "Estrada do Pré, 1594 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Juquinha",
+		"endereco": "Av. Cesário de Melo, 3.643 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Luar de Campo Grande",
+		"endereco": "Av. Brasil, 40.235 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Karapito",
+		"endereco": "Estrada do Mendanha, 1.700 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto 3 Pontos",	 
+		"endereco": "Estrada da Cachamorra, 1.290 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviço Charmoso",	 
+		"endereco": "Av. Santa Cruz, 11.943 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Dengoso",	 
+		"endereco": "Estrada do Monteiro, 50 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rio do A",	 
+		"endereco": "Estrada Rio do A, 1.425 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Campo Grande",
+		"endereco": "Rua Barcelos Domingos, 123 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Abastecimento Grande Amor",
+		"endereco": "Estrada do Mendanha, 4.081 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Grande Aliança",
+		"endereco": "Estrada da Caroba, S/N - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Cremonez" ,
+		"endereco": "Estrada do Mendanha, 4.240 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Campuscão",
+		"endereco": "Rua Augusto Vasconcelos, 1.290 - Campo Grande - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ama",
+		"endereco": "Rua do Riachuelo, 428 - Centro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Arte Moderna",
+		"endereco": "Av. Infante Dom Henrique, 7 - Centro - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Bendix Wolk",
+		"endereco": "Rua Frei Caneca, 312 - Centro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Garagem Paris",
+		"endereco": "Rua do Senado, 248 - Centro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Esplanada",
+		"endereco": "Av. Mem de Sá, 225 - Centro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Metro",
+		"endereco": "Av. Presidente Vargas, 1.875 - Centro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Garagem Barão de São Félix",
+		"endereco": "Rua Barão de São Félix, 148 - Centro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviços Marquês de Sapucaí",	 
+		"endereco": "Rua Salvador de Sá, 60 - Cidade Nova - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Coelhinho",
+		"endereco": "Av. Pastor Martin Luther King Jr. , 10.041 - Coelho Neto - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Petromasa",
+		"endereco": "Av. dos Italianos, 1.255 - Coelho Neto - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pressão Um",
+		"endereco": "Av. Martin Luther King Júnior, 9.046 - Colégio - Rio de Janeiro - Rio de Janeiro"
+	},
+    {
+        "nome": "Auto Posto Rondônia",
+		"endereco": "Rua Capitão Sampaio, 19 - Del Castilho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Abast. e Serv. V Marques",	 
+		"endereco": "Av. D. Helder Câmara, 3.124 - Del Castilho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Dom Helder Câmara",
+		"endereco": "Av. Dom Helder Câmara, 4539 - Del Castilho - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Ml do Engenho da Rainha (rede Ml)",
+		"endereco": "Rua Augusto e Souza, 21 - Engenho da Rainha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Suburbano",
+		"endereco": "Av. Dom Helder Câmara, 5.891 - Engenho de Dentro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Engenho de Dentro",	 
+		"endereco": "Av. Amaro Cavalcanti, 1.701 - Engenho de Dentro - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Noel Rosa",
+		"endereco": "Rua Dois de Maio, 671 - Engenho Novo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Total 126 de Gnv",
+		"endereco": "Rua Propícia, 126 - Engenho Novo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Magnata",
+		"endereco": "Av. Marechal Rondon, 2.951 - Engenho Novo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mega Engenho Novo",
+		"endereco": "Rua Souza Barros, 636 - Engenho Novo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Lubrificação São Pedro",
+		"endereco": "Rua Haddock Lobo, 82 - Estácio - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Estácio",
+		"endereco": "Rua Estácio de Sá, 87 - Estácio - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Tul",
+		"endereco": "Av. Geremário Dantas, 1.076 - Freguesia - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Tirol",
+		"endereco": "Estrada do Bananal, 277 - Freguesia - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Carbat",	 
+		"endereco": "Estrada dos Três Rios, 2141 - Freguesia - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cordeiro",
+		"endereco": "Av. Geremário Dantas, 1.321 - Freguesia - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Galeão Supersônico",
+		"endereco": "Av. Vinte de Janeiro, s/nº - Galeão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Sacadura",
+		"endereco": "Rua Sacadura Cabral, 237 - Gamboa - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Luar da Glória",
+		"endereco": "Av. Beira Mar, S/N - Glória - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviços Camboatá",
+		"endereco": "Estrada do Camboatá, 2.079 - Guadalupe - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rival de Guadalupe",
+		"endereco": "Rua Marcos de Macedo, 96 - Guadalupe - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Shell-democráticos",
+		"endereco": "Av. dos Democráticos, 1.400 - Higienópolis - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Torremolinos",
+		"endereco": "Praia do Galeão, 163 - Ilha do Governador - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Galeão Supersônico",
+		"endereco": "Av. Vinte de Janeiro, S/N - Ilha do Governador - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Garagem Lisboa",
+		"endereco": "Av. Itaoca, 2962 - Inhaúma - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Itaipu",	 
+		"endereco": "Rua José dos Reis, 1.863 - Inhaúma - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Leão Vermelho",
+		"endereco": "Av. Pastor Martin Luther King Júnior, 7.916 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Petromasa - Filial",
+		"endereco": "Av. Monsenhor Felix, 1.257 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Irajá",
+		"endereco": "Estrada da Água Grande, 513 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Carioca",
+		"endereco": "Av. Monsenhor Felix, 1171 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gás Ceasa Gvaro",
+		"endereco": "Av. Automóvel Clube, 9.500 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Abast. Água Grande",	 
+		"endereco": "Estrada da Água Grande, 230 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vouga",
+		"endereco": "Av. Monsenhor Félix, 203 - Irajá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Itanhangá",
+		"endereco": "Av. Engenheiro Souza Filho, 400 - Itanhangá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vianense",
+		"endereco": "Rua Lino Teixeira, 247 - Jacaré - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ayrton Senna",
+		"endereco": "Av. Ayrton Senna, 5.600 - Jacarepaguá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gabinal",
+		"endereco": "Estrada do Gabinal, 905 - Jacarepaguá - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gastotal",	 
+		"endereco": "Av. Geremário Dantas, 88 - Jacarepaguá - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Jermon",
+		"endereco": "Av. Marechal Fontenelle, 3.970 - Jardim Sulacap - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Catonho",
+		"endereco": "Rua Euzébio de Almeida, 1240 - Jardim Sulacap - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Leiróz",
+		"endereco": "Estrada do Catonho, 2.491 - Jardim Sulacap - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serv. Romântico",	 
+		"endereco": "Av. Marechal Fontenelle, 3.620 - Jardim Sulacap - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Carolina Machado",
+		"endereco": "Rua Carolina Machado, 124 - Madureira - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Elite de Madureira",
+		"endereco": "Rua Carolina Machado, 670 - Madureira - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Meridiano",
+		"endereco": "Rua João Vicente, 41 - Madureira - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa R",
+		"endereco": "Av. Ministro Edgar Romero, 484 - Madureira - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto 23 de Abril (sagez)",	 
+		"endereco": "Rua Conselheiro Galvão, 322 - Madureira - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mega Madureira",
+		"endereco": "Rua Leopoldina de Oliveira, 199 - Madureira - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Abastecimento de Veículos Silman",
+		"endereco": "Av. Brasil, 40.235 - Manguinhos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Radial Oeste",
+		"endereco": "Av. Presidente Castelo Branco, 293 - Maracanã - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Maracanã",
+		"endereco": "Rua São Francisco Xavier, 312/314 - Maracanã - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto e Garagem 3 Pastorinhos",
+		"endereco": "Rua São Francisco Xavier, 619 - Maracanã - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto dos Afonso",
+		"endereco": "Estrada Intendente Magalhães, 1.290 - Marechal Hermes - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Maria da Graça",
+		"endereco": "Rua Miguel Angelo, 324 - Maria da Graça - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Lubrificação Higienópolis",
+		"endereco": "Av. Dom Helder Câmara, 2.361 - Maria da Graça - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto e Garagem Mé",
+		"endereco": "Rua Vinte e Quatro de Maio, 1.281 - Mé - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Arara Azul",
+		"endereco": "Rua Angélica Mota, 6 - Olaria - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Gomensoro (rede Ml)",
+		"endereco": "Rua Gomensoro, 9 - Olaria - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pampas",
+		"endereco": "Av. Brasil, 8.565 - Olaria - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Eltecon",
+		"endereco": "Av. Brasil, 50.901 - Paciência - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Servicentro Carneiro",
+		"endereco": "Rua Coronel Tamarindo, 596 - Padre Miguel - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Amor",	 
+		"endereco": "Rua Francisco Real, 560 - Padre Miguel - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Marechal de Bangu",
+		"endereco": "Estrada da Água Branca, 3.074 - Padre Miguel - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Avenida Central de Irajá",
+		"endereco": "Av. Brasil, 16691 - Parada de Lucas - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Imperador Iii",
+		"endereco": "Rua Comendador Guerra, 181 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Pavuna",
+		"endereco": "Rua Cícero, 2 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Clara da Pavuna",
+		"endereco": "Av. Professor Bernardino da Rocha, 113 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Imperador",
+		"endereco": "Av. Automóvel Clube, 13916 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pavuna",
+		"endereco": "Rua Netuno, 662 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mercúrio da Pavuna",	 
+		"endereco": "Rua Mercúrio, 1.450 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pavuna",
+		"endereco": "Av. Chrisostomo Pimentel Oliveira, 2.651 - Pavuna - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Fhc",
+		"endereco": "Estrada do Pau Ferro, 286 - Pechincha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Serviço Geremário Dantas de Jacarepaguá (rede Ml)",
+		"endereco": "Av. Geremário Dantas, 585 - Pechincha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Âncora",	 
+		"endereco": "Rua Coronel Tedim, 40 - Pechincha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jatinho",
+		"endereco": "Rua Gruçaí, 900 - Penha - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho X",
+		"endereco": "Rua Ibiapina, 331 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jóia do Vizeu",
+		"endereco": "Av. Lobo Júnior, 1222 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Matinada",
+		"endereco": "Av. Nicarágua, 154 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Clara 2000",
+		"endereco": "Rua Bernardo de Figueiredo, 16 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Cruz",
+		"endereco": "Av. Brás de Pina, 832 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Porcão",
+		"endereco": "Av. Brasil, 12.800 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rio Lima",
+		"endereco": "Av. Brás de Pina, 1.823 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Penha 2 (rainha da Penha)",
+		"endereco": "Rua Belisário Pena, 618 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Penha I",
+		"endereco": "Rua Ibiapina, 345 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Arco Íris",	 
+		"endereco": "Av. Brás de Pina, 300 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nossa Senhora da Penha",
+		"endereco": "Av. Brás de Pina, 253 - Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Lobo Jún",
+		"endereco": "Av. Lobo Junior, 918 - Penha Circu - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto dos Meninos",
+		"endereco": "Rua Clarimundo de Melo, 245 - Piedade - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina João Ribeiro",
+		"endereco": "Av. João Ribeiro, 679 - Pilares - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto e Garagem Estrela do Matoso",
+		"endereco": "Rua do Matoso, 126 - Praça da,- Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bracarense",
+		"endereco": "Av. Oswaldo Aranha, 11 - Praça da,- Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Bittig",
+		"endereco": "Rua Cândido Benício, 1248 - Praça S - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Iv Centenário",
+		"endereco": "Rua Cândido Benício, 1.219 - Praça S - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Zip",
+		"endereco": "Rua Luiz Beltrão, 1385 - Praça S - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ro",
+		"endereco": "Rua Cândido Benício, 2180 - Praça S - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mato Alto",
+		"endereco": "Rua Cândido Benício, 3530 - Praça S - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Maior da Praça",
+		"endereco": "Rua Cândido Benício, 2.045 - Praça S - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Raja de Cascadura",
+		"endereco": "Rua Clarimundo de Melo, 854 - Quintino - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Geraldo",
+		"endereco": "Av. Dom Helder Câmara, 9.415 - Quintino - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bam Bam",
+		"endereco": "Av. Brasil, 8108 - Ramos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Colônia",
+		"endereco": "Av. Brasil, 8.666 - Ramos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nova Paradinha",
+		"endereco": "Rua Sargento Silva Nunes, 27 - Ramos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Tic Tac de Ramos",
+		"endereco": "Rua Uranos, 1176 - Ramos - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Nimbu",
+		"endereco": "Av. Brasil, 8.512 - Ramos - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho Vi" ,
+		"endereco": "Rua Barreiros, 423 - Ramos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ramos",
+		"endereco": "Rua Barreiros, 432 - Ramos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bango",
+		"endereco": "Rua Uranos, 1246 - Ramos - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Universidade Realengo",
+		"endereco": "Rua Bernardo de Vasconcelos, 1840 - Realengo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Realengo",
+		"endereco": "Estrada General Canrobert da Costa, 203 - Realengo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto dos Volantes",
+		"endereco": "Av. Marechal Fontenelle, 5710 - Realengo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Boa Fé",
+		"endereco": "Estrada da Água Branca, 2578 - Realengo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Recreio",
+		"endereco": "Estrada do Pontal, 459 - Recreio dos,- Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto das Américas",
+		"endereco": "Av. das Américas, 14.951 - Recreio dos,- Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rio Comprido",
+		"endereco": "Rua Itapirú, 941 - Rio Comprido - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto 4 Amigos",
+		"endereco": "Av. 24 de Maio, 25 - Rocha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Metagás de Santa Cruz",
+		"endereco": "Rua do Império, 175 - Santa Cruz - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Sendas Santa Cruz (bon Marché)",
+		"endereco": "Av. Padre Guilherme Decaminada, 2385 - Santa Cruz - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Portela 1",
+		"endereco": "Av. Padre Guilherme Decaminada, 1650 - Santa Cruz - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Portela 2",
+		"endereco": "Av. Brasil, 51.201 - Santa Cruz - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Cruz",
+		"endereco": "Av. Brasil, 55.496 - Santa Cruz - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gasmetano",	 
+		"endereco": "Av. Brasil, 52.210 - Santa Cruz - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santíssimo",
+		"endereco": "Av. Santa Cruz, 10.824 - Santíssimo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Portuário",
+		"endereco": "Rua Rodrigues Alves, 541 - Santo Cristo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mega Equador",
+		"endereco": "Rua Equador, 650 - Santo Cristo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santo Cristo",
+		"endereco": "Rua Santo Cristo, 198 - Santo Cristo - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Abast. Alegás do Caju",
+		"endereco": "Rua José Clemente, 134 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto M.l. de São Cristóvão (rede Ml)",
+		"endereco": "Rua Francisco Palheta, 140 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Fsc ( Sogás)",
+		"endereco": "Rua Almirante Mariath, 104 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Garagem Alegria",
+		"endereco": "Av. Prefeito Olímpio de Melo, 838 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nova Parada",
+		"endereco": "Av. Brasil, 2.021 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pérola",
+		"endereco": "Rua General Américo de Moura, 501 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Imperial 2000",
+		"endereco": "Rua Francisco Eugênio, 400 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto São Cristóvão",
+		"endereco": "Av. Brasil, 1.957 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto 102",	 
+		"endereco": "Rua Figueira de Melo, 439 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Alegria",
+		"endereco": "Av. Brasil, 2705 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Cordeiro I ( Filial São Cristóvão)",
+		"endereco": "Av. Francisco Bicalho, 10 - São Cristóvão - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Ps Guerra",
+		"endereco": "Av. Santa Cruz, 11.930 - Senador Vasconcelos - Rio de Janeiro - Rio de Janeiro"
+    },
+	{
+		"nome": "Posto Mr da Taquara",
+		"endereco": "Estr. Mal. Miguel Salazar Mendes de Moraes, 600 - Taquara - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Louzada",
+		"endereco": "Praça Jaurú, 5 - Taquara - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Sul Amér",
+		"endereco": "Av. Automóvel Clube, 4.466 - Thomáz Coelho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Amé",
+		"endereco": "Rua Santa Amélia, 45 - Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Tijuca",
+		"endereco": "Rua Barão de Pirassinunga, 04 - Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Fantasminha",
+		"endereco": "Rua Felix da Cunha, 71 - Tijuca - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Todos Os Santos",
+		"endereco": "Rua Curupaiti, 21 - Todos os Santos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Jacuí",
+		"endereco": "Estrada do Sapê, S/N - Turiaçú - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto do Trabalho I" ,
+		"endereco": "Av. Vicente de Carvalho, 1.388 - Vicente de Carvalho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vila Real",
+		"endereco": "Av. Vicente de Carvalho, 1468 - Vicente de Carvalho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nossa Senhora das Vitórias",
+		"endereco": "Av. Pastor Martin Luther King Jr., 6141 - Vicente de Carvalho - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Nobre Ltda.",
+		"endereco": "Av. Vicente de Carvalho, 1.081 - Vila da Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Kim",
+		"endereco": "Av. Meriti, 2.410 - Vila da Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Bicão",
+		"endereco": "Av. Merití, 2.940 - Vila da Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vila da Penha",
+		"endereco": "Av. Vicente de Carvalho, 1.388 - Vila da Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Real Bras Ltda.",	 
+		"endereco": "Av. Bras de Pina, 1921 - Vila da Penha - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Amoreiras Com. e Ind.",
+		"endereco": "Av. Cesário de Melo, 8.425 - Vila Kosmos - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Nova Valqueire (souzela)",
+		"endereco": "Rua Jambeiro, 955 - Vila Valqueire - Rio de Janeiro - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Valqueire (ex- Auto Posto Trabalho Ii)",
+		"endereco": "Estrada Intendente Magalhães, 513 - Vila Valqueire - Rio de Janeiro - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Pôr do Sol (gnc)",
+		"endereco": "Estrada Pádua-Pirapetinga, Km 1 - s/nº - Arraialzinho - Santo Antonio de Pádua - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Apú",
+		"endereco": "Rua Doutor Nilo Peçanha, 337 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Carrefour São Gonçalo",
+		"endereco": "Rua Oliveira Botelho, 349 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Interplanetário",
+		"endereco": "Rua Dr. Pio Borges, 2.875 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Parada 165",
+		"endereco": "Rua Dr. Nilo Peçanha, 678 - São Gonçalo - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Vise",
+		"endereco": "Rua José Lourenço de Azevedo, 181 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Norma",
+		"endereco": "Av. José Mendonça de Campos, 460 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Alcântara",
+		"endereco": "Rua Manoel João Gonçalves, 674 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Lindo Parque",
+		"endereco": "Av. Presidente Humberto A. Castello Branco, 1.910 - São Gonçalo - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Barreiras",
+		"endereco": "Rua Getúlio Vargas, 1.709 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Abreu Ltda.",
+		"endereco": "Rua Magalhães Bastos, 3.065 - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Planeta Saturno",	 
+		"endereco": "Av. Bispo Dom João Matta, 10 - Alcântara - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Via Maricá",
+		"endereco": "Av. Dr. Eugenio Borges, 1.229 - Arsenal - São Gonçalo - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Art Clor Ltda.", 
+		"endereco": "Av. Dr. Eugenio Borges, 1.138 - Arsenal - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Halley",	 
+		"endereco": "Av.José Mendonça de Campos, 497 - Columbandê - São Gonçalo - Rio de Janeiro"
+	},
+    {
+        "nome": "Auto Posto Sg",
+		"endereco": "Rua Dr. Francisco Portela, 401 - Paraíso - São Gonçalo - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Brasilândia",
+		"endereco": "Rua Abílio José de Matos, 308 - Porto da Pedra - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Rojah",
+		"endereco": "Rua Dr. Nilo Peçanha, 547 - São Miguel - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Gaspark Tribobó",
+		"endereco": "Av. Visconde de Santarém, 651 - Lt.1 e 2 - Tribobó - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Carvalho e Gomes",
+		"endereco": "Rua Visconde de Santarém, 11 - Tribobó - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Girassol",
+		"endereco": "Av. Pres. Roosevelt, 157 - Vista Alegre - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gasolina Maranatha",	 
+		"endereco": "Rua Coronel Serrado, 106 - Zé Garoto - São Gonçalo - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Grande Rio",
+		"endereco": "Rua Maria Soares Sendas, 186 - São João de Meriti - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Serra de Meriti",
+		"endereco": "Av. Tenente Manuel de Alvarenga, S/N - São João de Meriti - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Turnp",
+		"endereco": "Rodovia Presidente Dutra, Km 4 - São João de Meriti - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vencedor (central de Meriti)",
+		"endereco": "Rua Manoel Francisco de Rosa, 180 - São João de Meriti - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Vip de São João de Meriti",
+		"endereco": "Av. Getúlio de Moura, 289 - São João de Meriti - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto São João de Merit",
+		"endereco": "Av. Getúlio de Moura, Lt. 20 e 21- 289 - São João de Meriti - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Serra Meriti",
+		"endereco": "Av. Automóvel Clube, 639 - São João de Meriti - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Gás Alves",	 
+		"endereco": "Av. Presidente Lincoln, 1.060 - Jardim Meriti - São João de Meriti - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Monteiro dos Lagos",
+		"endereco": "Rodovia Amaral Peixoto, Km 106 - Lts. 12, 13, 14 - São Pedro da Ald - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Mega Power dos Lagos",
+		"endereco": "Rodovia RJ 140, Km 08 - São Pedro da Ald - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Elefantinho",
+		"endereco": "Rodovia RJ-140, nº 500 - Km 5 - Campo Redondo - São Pedro da Ald - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Lucagima",
+		"endereco": "Rodovia RJ-140, Km 3 - Estação - São Pedro da Ald - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ponta D´água Ltda.",	 
+		"endereco": "Rodovia Amaral Peixoto, Km 105 - Ponta D´Água - São Pedro da Ald - Rio de Janeiro"
+	},
+    {
+        "nome": "Auto Posto e Pousada Rural de Piranema",
+		"endereco": "Rodovia BR-465, Km 40 - Seropéd - Rio de Janeiro"
+    },
+    {
+        "nome": "Auto Posto Rural Seropé",
+		"endereco": "Estrada Rio São Paulo (BR-465), Km 42 - s/n° - Seropéd - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Pit Stop de Teresópolis Ltda/ Filial (gnc) (24 Horas)",	 
+		"endereco": "Av. Alberto Torres, 610 - Alto - Teresópolis - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Hermitage",	 
+		"endereco": "Rua Wilhelm Christian Kleme, s/nº Lt 8 Qd 1 - Ermitage - Teresópolis - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Santa Amália (gnc)",
+		"endereco": "Av. Sebastião Manoel Furtado, 969 - Santa Amá - Vassouras - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Ap-gás",
+		"endereco": "Av. Nestor Rodrigues Perligeiro, 500 - Volta Redonda - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Metano Gás Ii",
+		"endereco": "Rua Cincinato Braga, 0 - Volta Redonda - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Prefeitura de Volta Redonda",
+		"endereco": "Rua Governador Luis Monteiro, 230 - Aterrado - Volta Redonda - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto Big Gás (rede Jk)",
+		"endereco": "Av. Getúlio Vargas, 253 - Centro - Volta Redonda - Rio de Janeiro"
+	},
+	{
+		"nome": "Posto de Combustíveis Confortaço",
+		"endereco": "Rodovia dos Metalúrgicos, 941 - Jardim Belvedere - Volta Redonda - Rio de Janeiro"
+	},
+	{
+		"nome": "R-2 Posto de Abastecimento de Gás Veicu",
+		"endereco": "Av. Paulo Erial Alves Abrantes, 8.600 - Três Poços - Volta Redonda - Rio de Janei"
+	}
+]
