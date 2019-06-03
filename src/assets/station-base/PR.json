@@ -1,0 +1,163 @@
+[
+    {
+ 		"nome": "Posto Aspro Gnv",
+        "endereco": "Rodovia BR-277 Km 21.5, 0 - Rondinha - Campo Largo - Paraná"
+    },
+    {       
+        "nome": "Auto Posto Via da Uva Ltda. (gnc)",
+        "endereco": "Rodovia da Uva, 881 - Colombo - Paraná"
+    },
+    {       
+ 		"nome": "Posto Ts Comércio de Gás Veicular (gnc)",
+ 		"endereco": "Rodovia BR-116 Km 87.5, 0 - Colombo - Paraná"
+    },
+    {
+        "nome": "Auto Posto Mediterrâneo (gnc)",
+        "endereco": "Av. Arg - Jardim Rio Verde - Colombo - Paraná"
+    },
+    {
+        "nome": "Auto Posto Patmos Ltda.",
+        "endereco": "Av. Anita Garibaldi, 5.827 - Barreirinha - Curit - Paraná"
+    },
+    { 
+ 		"nome": "Posto Gás Positivo",
+        "endereco": "Rua Prof. Pedro Viriato Parigot de Souza, 0 - Campo Comprido - Curit - Paraná"
+    },
+ 	{
+        "nome": "Auto Posto K15 Ltda.",
+        "endereco": "Av. Sete de Setembro, 2.578 - Centro - Curit - Paraná"
+    },
+ 	{
+ 		"nome": "Posto Pinheiros Ltda.",
+        "endereco": "Rodovia BR 476 km 107.5, 0 - Cidade Industrial - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Analipe Ltda.",
+        "endereco": "Av. Juscelino Kubitschek de Oliveira, 5.951 - Cidade Industrial de Curit - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Via Sul Ltda.",
+        "endereco": "Av. Presidente Affonso Camargo, 10 - Cristo Rei - Curit - Paraná"
+    },
+    { 
+ 		"nome": "Posto Trapézio (pompéia)",
+        "endereco": "Rua Raul Pompéia, 1.364 - Fazendinha - Curit - Paraná"
+    },
+ 	{
+ 		"nome": "Posto Vigui (antares)",
+        "endereco": "Rua Raul Pompéia, 415 - Fazendinha - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Pórtico Ii",
+        "endereco": "Av. das Torres, 3.133 - Guabirotuba - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Jardim Botânico",
+        "endereco": "Av. das Torres, 1.197 - Jardim Botânico - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Capanema",
+        "endereco": "Rua Eng. Rebouças, 520 - Jardim Botânico - Curit - Paraná"
+    },
+    { 
+ 		"nome": "Auto Posto Itália Cen",
+        "endereco": "Av. Manoel Ribas, 3.130 - Mercês - Curit - Paraná"
+    },
+    { 
+ 	    "nome":	"Auto Posto Petrocenter Ecoville Ltda.",
+        "endereco": "Rua Monsenhor Ivo Zanlorenzi, 12.630 - Mossunge - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Querubim",
+        "endereco": "Rua Isaac Guelmann, 4.209 - Novo Mundo - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto San Michael (joão Bettega)",
+        "endereco": "Rua Gen. Potiguara, 1.695 - Novo Mundo - Curit - Paraná"
+    },
+    { 
+ 		"nome": "Posto Farol do Parque",
+        "endereco": "Rodovia BR-277, 3.048 - Orleans - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Dobson",
+        "endereco": "Rua Emanuel Voluz, 381 - Pinheirinho - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto das Tartarugas",
+        "endereco": "Av. Senador Salgado Filho, 405 - Prado Velho - Curit - Paraná"
+    },
+    { 
+ 		"nome": "Posto Estrela Cadente (chu)",
+        "endereco": "Rua João Negrão, 1.561 - Rebouças - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Rincão do Engenho",
+        "endereco": "Rodovia BR-116 Km 110, 0 - Tatuquara - Curit - Paraná"
+    },
+ 	{ 
+ 		"nome": "Posto Pórtico Matriz",
+        "endereco": "Av. das Torres, 4.094 - Uberaba - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Tic Posto I",
+        "endereco": "Av. Senador Salgado Filho, 2.992 - Uberaba - Curit - Paraná"
+    },
+    {	 
+ 		"nome": "Posto Tic Posto Ii",
+        "endereco": "Av. das Torres, 5.175 - Uberaba - Curit - Paraná"
+    },
+    {
+ 		"nome": "Posto Pedrazzoli",
+        "endereco": "Rua Moscardi Fanini, 268 - Vila Guaíra - Curit - Paraná"
+    }, 	 
+    {
+ 		"nome": "Posto Portal da Marechal",
+         "endereco": "Av. Marechal Floriano, 5.548 - Vila Hauer - Curit - Paraná"
+    },
+ 	{	 
+ 		"nome": "Posto Gastech (gnl)",
+        "endereco": "Av. Brasília, 2.257 - Nossa Senhora do Desterro - Londr - Paraná"
+    }, 	 
+    {
+ 		"nome": "Auto Posto Mediterrâneo Ltda.",
+ 		"endereco": "Estrada das Praias PR-407, 0 - Vila Garcia - Paranaguá - Paraná"
+    },
+    { 
+ 		"nome": "Posto Jardim Botânico Ltda. (gnc)",
+ 		"endereco": "Rodovia Deputado João Leopoldo Jacomel, 12.610 - Pinhais - Paraná"
+    },
+    {
+ 		"nome": "Posto Boa Vista",
+        "endereco": "Av. Dom Pedro II, 1.383 - Nova Russia - Ponta Grossa - Paraná"
+    },
+    {       
+ 		"nome": "Posto Visconde - M. Pilatti & Cia. Ltda.",
+        "endereco": "Av. Visconde de Mauá, 1.950 - Oficinas - Ponta Grossa - Paraná"
+    },
+    {
+ 		"nome": "Posto Parque da Fonte",	 
+        "endereco": "Av. Rui Barbosa, 4.135 - Afonso P - São José dos Pinhais - Paraná"
+    },
+    {
+ 		"nome": "Posto Alves da Rocha Ltda. (dois Pinheiros)",
+        "endereco": "Av. Joaquim Nabuco, 1.643 - Centro - São José dos Pinhais - Paraná"
+    },
+ 	{ 	 
+ 		"nome": "Posto Parque do Bosque",
+        "endereco": "Rod. BR-376 Km 23.5, 0 - Colônia Muricy - São José dos Pinhais - Paraná"
+    },
+ 	{	 
+ 		"nome": "Posto Maru V",
+        "endereco": "Av. Rui Barbosa, 1.676 - Jardim Rio Branco - São José dos Pinhais - Paraná"
+    },
+ 	{
+ 		"nome": "Posto Tio Zico Ii",
+        "endereco": "Rodovia BR-376 Km 626, 0 - Nho - São José dos Pinhais - Paraná"
+    },
+    {
+        "nome": "Tic Iv Posto Ltda. (napolitano)",
+        "endereco": "Av. das Torres, 2.511 - São Pedro - São José dos Pinhais - Paraná"
+    },
+ 	
+]
