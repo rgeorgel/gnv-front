@@ -1,0 +1,294 @@
+[
+    {
+        "nome": "Posto Santa Bárbara",
+        "endereco": "Avenida Ricarti Teixeira, 1.200 - Contendas - Andradas - Minas Gerais"
+    },
+   {
+        "nome": "Posto Cabana",
+        "endereco": "Av. das Rosas, 0 - Caiçaras - Barbac - Minas Gerais"
+   },
+   {
+        "nome": "Posto Miranda",
+        "endereco": "Rua Henrique Diniz, 45 - Centro - Barbac - Minas Gerais"
+   },
+   {
+        "nome": "Posto Úrsula Paulino",
+        "endereco": "Rua Úrsula Paulino, 2.400 - Bairro Betânia - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Nancy",
+        "endereco": "Av. Isabel Bueno, 20 - Bairro Universitário - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Trevinho",
+        "endereco": "Av. José Cândido da Silveira, 3.252 - Bairro Vila Ipê - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Itapoã",
+        "endereco": "Av. Amazonas, 2.994 - Barroca - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Carmênia 1",
+        "endereco": "Av. Tereza Cristina, 6.771 - Betânia - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Carmênia 2",
+        "endereco": "Av. Tereza Cristina, 9.793 - Betânia - Belo Horizonte - Minas Gerais"
+    },
+    {	 
+        "nome": "Posto Gnv Anel",
+        "endereco": "Rua Antônio José de Carvalho, 180 - Caiçara - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Kov (pedro Ii)",
+        "endereco": "Av. Pedro II, 4.414 - Califórnia - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Inhumas",
+        "endereco": "Rodovia BR-262 Km 7.5, 0 - Conjunto Califórnia - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Dona Clara",
+        "endereco": "Av. Cristiano Machado, 8.665 - Dona Clara - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Arara Azul",
+        "endereco": "Av. Cristiano Machado, 11.100 - Floramar - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Floramar",
+        "endereco": "Av. Cristiano Machado, 10.130 - Floramar - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Cristiano I",
+        "endereco": "Av. Cristiano Machado, 11.660 - Floramar - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Rem",
+        "endereco": "Av. Amazonas, 4.594 - Gameleira - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Allgás (igás)",
+        "endereco": "Av. Saramenha, 1.632 - Guarani - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Fazenda Velha",
+        "endereco": "Av. Cristiano Machado, 2.570 - Ipiranga - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Tatiana",
+        "endereco": "Av. Pedro I, 468 - Itapoã - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Cardeal",
+        "endereco": "Av. Dom Pedro I, 1.680 - Itapoã - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Beagás (pangea)",
+        "endereco": "Av. Dom Pedro II, 4.685 - Jardim Montanhês - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Mercogás",
+        "endereco": "Rodovia BR 262 Km 13, 0 - Anel Rodoviário - Manacas - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Alcatéia",
+        "endereco": "Av. Henrique Diniz, 620 - Nova Cachoeirinha - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Coelho",
+        "endereco": "Av. Presidente Antônio Carlos, 3.550 - Nova Cachoeirinha - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Progresso",
+        "endereco": "Rua Pará de Minas, 1.080 - Padre Eustáquio - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Mineirão",
+        "endereco": "Av. Pres. Antonio Carlos, 2.710 - Parque Riachuelo - Belo Horizonte - Minas Gerais"
+   },
+    { 		
+        "nome": "Posto Sete Belo Igás",
+        "endereco": "Av. Cristiano Machado, 8.898 - Primeiro de Maio - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Vanorte",
+        "endereco": "Av. Dr. Álvaro Camargos, 2.001 - Santa Mon - Belo Horizonte - Minas Gerais"
+   },
+    {
+        "nome": "Posto Sto. Agostinho",
+        "endereco": "Av. Amazonas, 2.381 - Santo Agostinho - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Flamingo",
+        "endereco": "Av. Presidente Antônio Carlos, 4.250 - São Francisco - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto C",
+        "endereco": "Rua Dom Pedro I, 2.177 - São João Batista - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Minas Shoppi",
+        "endereco": "Av. Cristiano Machado, 3.400 - São Paulo - Belo Horizonte - Minas Gerais"
+   },
+    {
+        "nome": "Posto Nova Amér",
+        "endereco": "Rua Padre Pedro Pinto, 3.300 - Venda Nova - Belo Horizonte - Minas Gerais"
+    },
+    {
+        "nome": "Posto Vilarinho",
+        "endereco": "Av. Vilarinho, 1.691 - Venda Nova - Belo Horizonte - Minas Gerais"
+    },
+    {	 
+        "nome": "Posto Capileco",
+        "endereco": "Rua Cel. Jove Soares, 300 - Inconfidentes - Betim - Minas Gerais"
+   },
+   {
+        "nome": "Posto das Alturas",
+        "endereco": "Rua Gracyra Resse Gouveia, 1055 - Jardim Piemont - Betim - Minas Gerais"
+   },
+   {
+        "nome": "Posto Lady",
+        "endereco": "Rua Lindonor Ribeiro, 127 - Centro - Confins - Minas Gerais"
+   },
+   {
+        "nome": "Posto Gnv Trevão",
+        "endereco": "Rodovia BR-040 Km 617, 0 - Joaquim Murtinho - Congonhas - Minas Gerais"
+   },
+   {
+        "nome": "Posto Rede Gas",
+        "endereco": "Rua Padre José Maria de Man, 1501 - CH Hab Monte Castelo - Contagem - Minas Gerais"
+   },
+   {
+        "nome": "Posto Cidade Industrial",
+        "endereco": "Praça Luís Ensch, 40 - Cidade Industrial - Contagem - Minas Gerais"
+   },
+   {
+        "nome": "Posto V",
+        "endereco": "Av. Babita Camargos, 1.330 - Cidade Industrial - Contagem - Minas Gerais"
+    },
+    {
+        "nome": "Posto Grécia",
+        "endereco": "Av. Helena de Vasconcelos Costa, 5.450 - Cincão - Contagem - Minas Gerais"
+    },
+    { 
+        "nome": "Posto Peixe Vivo",
+        "endereco": "Av. Tito Fulgêncio, 401 - Jardim Industrial - Contagem - Minas Gerais"
+    },
+    {
+        "nome": "Posto Trovão",
+        "endereco": "Av. Tito Fulgêncio, 1.189 - Jardim Industrial - Contagem - Minas Gerais"
+    },
+    {
+        "nome": "Posto 4 Rodas",
+        "endereco": "Av. Tito Fulgêncio, 950 - Jardim Industrial - Contagem - Minas Gerais"
+    },
+    {
+        "nome": "Posto Rem Ii",
+        "endereco": "Av. João César de Oliveira, 5.120 - Jardim Marrocos - Contagem - Minas Gerais"
+    },
+    {
+        "nome": "Posto Riacho",
+        "endereco": "Rodovia Fernão Dias Km 423.3, 2.800 - Riacho das Pedras - Contagem - Minas Gerais"
+    },
+    {
+        "nome": "Posto Faisão Vii",
+        "endereco": "Av. Pedro Linhares Gomes, 4.400 - Veneza - Ipatinga - Minas Gerais"
+    },
+    {
+        "nome": "Posto Galo",
+        "endereco": "Av. Antonio Simão Firjam, 1.195 - B - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Petrogas",
+        "endereco": "Av. Juscelino Kubitschek, 6.000 - B - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Elefantinho",
+        "endereco": "Rua Dr. Saint Clair Carvalho, 333 - Centro - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Man",
+        "endereco": "Av. Sete de Setembro, 743 - Costa Carvalho - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Portal do Bosque",
+        "endereco": "Rua Bernardo Mascarenhas, 1.400 - Fábr - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Paraibuna",
+        "endereco": "Rua Américo Lobo, 708 - Manoel Honório - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Pangea",
+        "endereco": "Rua Professora Violeta dos Santos, 0 - Mariano Procopio - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Gasplus",
+        "endereco": "Av. Brasil, 6.031 - Mariano Procópio - Juiz de Fora - Minas Gerais"
+    },
+    {          
+        "nome": "Posto Rodoviária",
+        "endereco": "Av. Brasil, 6.823 - Mariano Procópio - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Sempre",
+        "endereco": "Av. Brasil, 5.201 - Mariano Procópio - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Jóquei Clube",
+        "endereco": "Rua Silvia Vidal Lage, 25 - Vila Vidal - Juiz de Fora - Minas Gerais"
+    },
+    {
+        "nome": "Posto Matozinhos Ipi",
+        "endereco": "Rodovia MG-424 Km 26, 0 - Bom Jesus - Matozinhos - Minas Gerais"
+    },
+    {
+        "nome": "Posto Rede 1000",
+        "endereco": "Rodovia MG-424 Km 51, 0 - Campinho - Pedro Leopoldo - Minas Gerais"
+    },
+    {
+        "nome": "Posto Grumari",
+        "endereco": "Rua Francisco Azevedo, 76 - Centro - Pedro Leopoldo - Minas Gerais"
+    },
+    {
+        "nome": "Posto Acácias",
+        "endereco": "Av. Santo Antônio, 310 - Jardim Cascatinha - Poços de Caldas - Minas Gerais"
+    },
+    {
+        "nome": "Posto Podium Ltda.",
+        "endereco": "Av. Denise Cristina da Rocha, 637 - Santa Branca - Ribeirão das Neves - Minas Gerais"
+    },
+    {
+        "nome": "Posto São Cristóvão",
+        "endereco": "Av. das Indústrias, 4.015 - Capitão Eduardo - Santa Luzia - Minas Gerais"
+    },
+    {
+        "nome": "Posto Luziense",
+        "endereco": "Rua Alvorada, 440 - São Benedito - Santa Luzia - Minas Gerais"
+    },
+    {
+        "nome": "Posto Gnv Igás",
+        "endereco": "Rua Secretário Divino Padrão, 85 - Centro - Sete Lagoas - Minas Gerais"
+    },
+    {
+        "nome": "Posto Gm Sete Lagoas Ii",
+        "endereco": "Av. Dr. Renato Azeredo, 2.299 - Chácara do Pa - Sete Lagoas - Minas Gerais"
+    },
+    {
+        "nome": "Posto Jota",
+        "endereco": "Rua Eduardo Alves Ferreira, 40 - Jardim Amé - Sete Lagoas - Minas Gerais"
+    },
+    {
+        "nome": "Posto Uirapuru",
+        "endereco": "Rodovia Ubá-Juiz de Fora Km 103, 0 - Ubá - Minas Gerais"
+    },
+    {
+        "nome": "Posto Auto Gás",
+        "endereco": "Rua Afonso Pena, 388 - Centro - Vespasiano - Minas Gerais"
+    },
+    {
+        "nome": "Posto Sinaleiro",
+        "endereco": "Rodovia MG-010 Km 18.5, 0 - São Damião - Vespasiano - Minas Gerais"
+    }
+]
