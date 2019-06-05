@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Posto 1000",
+        "endereco": "Av. Manoel da Costa Lima, 459 - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Auto Posto Aliança Ltda.",
+        "endereco": "Av. Mato Grosso, 1.510 - Centro - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Auto Posto Aurora",
+        "endereco": "Rua Dom Aquino, 1.721 - Centro - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Posto Paulista (yanomine & Cia. Ltda.)",
+        "endereco": "Av. Calógeras, 1.472 - Centro - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Posto San Carlo",
+        "endereco": "Rua Fernando Correa da Costa, 630 - Centro - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Pegoraro Comércio de Combustíveis",
+        "endereco": "Rua João Rosa Pires, 353 - Vila Aurora - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Posto Coopertaxi",
+        "endereco": "Av. Calógeras, 1.371 - Vila Carvalho - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Auto Posto Gentil (brito & Rossi)",
+        "endereco": "Rua Marechal Deodoro, 5.712 - Vila Kellen - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Posto Troncoso",
+        "endereco": "Av. Costa e Silva, 811 - Vila Progresso - Campo Grande - Mato Grosso do Sul"
+    },
+    {
+        "nome": "Posto Nilton Lagoas",
+        "endereco": "Av. Ranulpho Marques Leal, 625 - Jardim Alvorada - Três Lagoas - Mato Grosso do Sul"
+    }
+]
