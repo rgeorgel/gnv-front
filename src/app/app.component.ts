@@ -88,7 +88,7 @@ export class AppComponent {
 
 
       const interstitialConfig: AdMobFreeInterstitialConfig = {
-        isTesting: true,
+        isTesting: false,
         autoShow: false,
         id: 'ca-app-pub-2452858859242368/2279304865'
       };
