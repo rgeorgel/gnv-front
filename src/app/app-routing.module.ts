@@ -13,7 +13,7 @@ const routes: Routes = [
   },
   {
     path: 'list',
-    loadChildren: './list/list.module#ListPageModule'
+    loadChildren: './list-station/list-station.module#ListStationPageModule'
   },
   { path: 'map', loadChildren: './map/map.module#MapPageModule' },
   { path: 'add-station', loadChildren: './add-station/add-station.module#AddStationPageModule' },

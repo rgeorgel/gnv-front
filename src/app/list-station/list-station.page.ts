@@ -1,37 +1,35 @@
-import { Component, OnInit, NgZone } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { ModalController, LoadingController } from '@ionic/angular';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
 
-import { StationService } from '../../services/station.service';
 import { Station } from '../models/station.model';
-import { ModalController, AlertController } from '@ionic/angular';
-import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
 import { Address } from '../models/address.model';
-import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
+import { StationService } from 'src/services/station.service';
+import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
 
 declare var google;
 
 @Component({
-  selector: 'app-map',
-  templateUrl: './map.page.html',
-  styleUrls: ['./map.page.scss'],
+  selector: 'app-list-station',
+  templateUrl: 'list-station.page.html',
+  styleUrls: ['list-station.page.scss']
 })
-export class MapPage implements OnInit {
-  map: any;
+export class ListStationPage implements OnInit {
+
+  state: string;
+  filterBy: string;
+  loading: any;
   stations: Array<Station> = [];
   currentPosition: Address = new Address();
-
-  myPopup: any;
-  lat: any;
-  lng: any;
-
   stationService: StationService;
+
   constructor(
     stationService: StationService,
     public geolocation: Geolocation,
     private modalCtrl: ModalController,
-    private alertCtrl: AlertController,
-    private zone: NgZone,
     private ga: GoogleAnalytics,
+    public loadingController: LoadingController
   ) {
     this.stationService = stationService;
   }
@@ -39,8 +37,14 @@ export class MapPage implements OnInit {
   ngOnInit() {
     this.getLocation();
 
-    this.ga.trackView('Map Page');
-    this.ga.trackEvent('track', 'Map Page', 'Map Page');
+    this.ga.trackView('List Station Page');
+    this.ga.trackEvent('track', 'List Station Page', 'List Station Page');
+
+    this.prepareLoading();
+  }
+
+  async prepareLoading() {
+    this.loading = await this.loadingController.create({ message: 'Carregando...' });
   }
 
   getLocation() {
@@ -52,52 +56,38 @@ export class MapPage implements OnInit {
     this.geolocation.getCurrentPosition(options).then((res) => {
       this.currentPosition.lat = String(res.coords.latitude);
       this.currentPosition.lng = String(res.coords.longitude);
-
-      this.initMap(res.coords.latitude, res.coords.longitude);
-      this.getStations();
     });
   }
 
-  initMap(lat: number, lnt: number) {
-    const position = new google.maps.LatLng(lat, lnt);
-
-    const mapOptions = {
-      zoom: 12,
-      center: position
-    };
-
-    this.map = new google.maps.Map(document.getElementById('map'), mapOptions);
-  }
-
   getStations() {
-    this.stationService.get()
+    this.loading.present();
+
+    this.stationService.getByState(this.state)
     .then((stations: Array<Station>) => {
+      this.loading.dismiss();
+
       this.stations = stations;
-      console.log(this.stations);
       for (let i = 0; i < this.stations.length; i++) {
         const station = this.stations[i];
 
-        const marker = new google.maps.Marker({
-          position: new google.maps.LatLng(station.lat, station.lng),
-          map: this.map,
-          title: station.name,
-        });
+        // const marker = new google.maps.Marker({
+        //   position: new google.maps.LatLng(station.lat, station.lng),
+        //   map: this.map,
+        //   title: station.name,
+        // });
 
-        this.setMarkerClickable(marker, station);
+        // this.setMarkerClickable(marker, station);
       }
 
     })
     .catch(() => {
+      this.loading.dismiss();
       console.log('Oops, nao foi possivel carregar os postos');
     });
   }
 
-  setMarkerClickable(marker: any, station: Station): void {
-    marker.addListener('click', () => {
-      this.zone.run(() => {
-        this.openModal(station);
-      });
-    });
+  getAddress(station: Station): string {
+    return `${station.street}, ${station.number} ${station.neighborhood} - ${station.city} - ${station.state}`;
   }
 
   async openModal(station: Station) {

@@ -9,11 +9,11 @@ import { NotificationService } from 'src/services/notification.service';
 import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 @Component({
-  selector: 'modal',
-  templateUrl: './modal.component.html',
-  styleUrls: ['./modal.component.scss'],
+  selector: 'natigation-modal',
+  templateUrl: './natigation-modal.component.html',
+  styleUrls: ['./natigation-modal.component.scss'],
 })
-export class ModalComponent implements OnInit {
+export class NavigationModalComponent implements OnInit {
 
   station: Station = new Station();
   currentAddress: Address = new Address();

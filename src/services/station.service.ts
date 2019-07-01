@@ -29,6 +29,18 @@ export class StationService {
         .catch(this.handleError);
     }
 
+    getByState(state: string) {
+        return this.http.get(environment.urlServer + `/station/find-by-state?state=${state}`)
+        .toPromise()
+        .then((res: Response) => {
+            const body = res.json();
+            const converter = new StationConverter();
+
+            return converter.toModels(body);
+        })
+        .catch(this.handleError);
+    }
+
     save(station: Station) {
         const converter = new StationConverter();
         const _body = converter.toExternal(station);

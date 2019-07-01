@@ -7,7 +7,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { MapPage } from './map.page';
 import { StationService } from '../../services/station.service';
-import { ModalComponent } from './modal/modal.component';
+import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
 
 const routes: Routes = [
   {
@@ -25,13 +25,13 @@ const routes: Routes = [
   ],
   declarations: [
     MapPage,
-    ModalComponent,
+    NavigationModalComponent,
   ],
   providers: [
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   entryComponents: [
-    ModalComponent
+    NavigationModalComponent
   ]
 })
 export class MapPageModule {}

@@ -1,0 +1,78 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      Lista de Postos
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <div>
+    <ion-select
+      [(ngModel)]="state"
+      placeholder="Selecione um estado..."
+      (ionChange)="getStations()">
+      <ion-select-option value="AC">Acre</ion-select-option>
+      <ion-select-option value="AL">Alagoas</ion-select-option>
+      <ion-select-option value="AP">Amapá</ion-select-option>
+      <ion-select-option value="AM">Amazonas</ion-select-option>
+      <ion-select-option value="BA">Bahia</ion-select-option>
+      <ion-select-option value="CE">Ceará</ion-select-option>
+      <ion-select-option value="DF">Distrito Federal</ion-select-option>
+      <ion-select-option value="ES">Espírito Santo</ion-select-option>
+      <ion-select-option value="GO">Goiás</ion-select-option>
+      <ion-select-option value="MA">Maranhão</ion-select-option>
+      <ion-select-option value="MT">Mato Grosso</ion-select-option>
+      <ion-select-option value="MS">Mato Grosso do Sul</ion-select-option>
+      <ion-select-option value="MG">Minas Gerais</ion-select-option>
+      <ion-select-option value="PR">Paraná</ion-select-option>
+      <ion-select-option value="PB">Paraíba</ion-select-option>
+      <ion-select-option value="PA">Pará</ion-select-option>
+      <ion-select-option value="PE">Pernambuco</ion-select-option>
+      <ion-select-option value="PI">Piauí</ion-select-option>
+      <ion-select-option value="RN">Rio Grande do Norte</ion-select-option>
+      <ion-select-option value="RS">Rio Grande do Sul</ion-select-option>
+      <ion-select-option value="RJ">Rio de Janeiro</ion-select-option>
+      <ion-select-option value="RO">Rondônia</ion-select-option>
+      <ion-select-option value="RR">Roraima</ion-select-option>
+      <ion-select-option value="SC">Santa Catarina</ion-select-option>
+      <ion-select-option value="SE">Sergipe</ion-select-option>
+      <ion-select-option value="SP">São Paulo</ion-select-option>
+      <ion-select-option value="TO">Tocantins</ion-select-option>
+    </ion-select>
+  </div>
+  <form [formGroup]="myForm">
+    <ion-button type="button" shape="round" expand="full">Buscar</ion-button>
+
+    <ion-item style="display: none;">
+      <ion-label></ion-label>
+      <ion-input [(ngModel)]="filterBy"
+                 formControlName="filterBy"
+                 type="text"
+                 placeholder="Filtrar por..."
+                 clearInput clearOnEdit="false">
+      </ion-input>
+    </ion-item>
+  </form>
+
+  <h1 style="color:#000000;">
+    Postos
+  </h1>
+
+  <ion-list>
+    <ion-item *ngFor="let station of stations">
+      <div class="iten-body">
+        <h2>{{ station.name }}</h2>
+        {{ getAddress(station) }}
+      </div>
+      <div style="text-align:right;" class="link-rotes">
+        <p (click)="openModal(station)">
+          Rota ate o posto
+        </p>
+      </div>
+    </ion-item>
+  </ion-list>
+</ion-content>

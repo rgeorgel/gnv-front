@@ -18,7 +18,7 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'Buscar um posto',
+      title: 'Ver postos no mapa',
       url: '/map',
       icon: 'pin'
     },
@@ -31,6 +31,11 @@ export class AppComponent {
       title: 'Adicionar posto',
       url: '/add-station',
       icon: 'build'
+    },
+    {
+      title: 'Lista de postos',
+      url: '/list',
+      icon: 'list'
     }
   ];
 
