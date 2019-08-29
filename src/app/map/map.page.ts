@@ -1,9 +1,9 @@
-import { Component, OnInit, NgZone } from '@angular/core';
+import { Component, OnInit, NgZone, ViewChild, ElementRef } from '@angular/core';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import { StationService } from '../../services/station.service';
 import { Station } from '../models/station.model';
-import { ModalController, AlertController } from '@ionic/angular';
+import { ModalController, AlertController, Platform } from '@ionic/angular';
 import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
 import { Address } from '../models/address.model';
 import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
@@ -19,6 +19,7 @@ export class MapPage implements OnInit {
   map: any;
   stations: Array<Station> = [];
   currentPosition: Address = new Address();
+  @ViewChild('map') mapElement: ElementRef;
 
   myPopup: any;
   lat: any;
@@ -32,15 +33,18 @@ export class MapPage implements OnInit {
     private alertCtrl: AlertController,
     private zone: NgZone,
     private ga: GoogleAnalytics,
+    private platform: Platform,
   ) {
     this.stationService = stationService;
   }
 
   ngOnInit() {
-    this.getLocation();
+    this.platform.ready().then(() => {
+      this.getLocation();
 
-    this.ga.trackView('Map Page');
-    this.ga.trackEvent('track', 'Map Page', 'Map Page');
+      this.ga.trackView('Map Page');
+      this.ga.trackEvent('track', 'Map Page', 'Map Page');
+    });
   }
 
   getLocation() {
@@ -66,7 +70,7 @@ export class MapPage implements OnInit {
       center: position
     };
 
-    this.map = new google.maps.Map(document.getElementById('map'), mapOptions);
+    this.map = new google.maps.Map(this.mapElement.nativeElement, mapOptions);
   }
 
   getStations() {
