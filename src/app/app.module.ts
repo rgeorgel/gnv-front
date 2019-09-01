@@ -19,11 +19,17 @@ import { AppRoutingModule } from './app-routing.module';
 import { StationService } from 'src/services/station.service';
 import { GoogleService } from 'src/services/google.services';
 import { NotificationService } from 'src/services/notification.service';
+import { NavigationModalComponent } from './shared/natigation-modal/natigation-modal.component';
 
 
 @NgModule({
-  declarations: [AppComponent],
-  entryComponents: [],
+  declarations: [
+      AppComponent,
+      NavigationModalComponent,
+  ],
+  entryComponents: [
+    NavigationModalComponent,
+  ],
   imports: [
     BrowserModule,
     IonicModule.forRoot(),

@@ -25,13 +25,11 @@ const routes: Routes = [
   ],
   declarations: [
     MapPage,
-    NavigationModalComponent,
   ],
   providers: [
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   entryComponents: [
-    NavigationModalComponent
   ]
 })
 export class MapPageModule {}

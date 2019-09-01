@@ -7,6 +7,7 @@ import { Station } from '../models/station.model';
 import { Address } from '../models/address.model';
 import { StationService } from 'src/services/station.service';
 import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
+import { FormBuilder, Validators } from '@angular/forms';
 
 declare var google;
 
@@ -17,6 +18,7 @@ declare var google;
 })
 export class ListStationPage implements OnInit {
 
+  public myForm: any;
   state: string;
   filterBy: string;
   loading: any;
@@ -25,6 +27,7 @@ export class ListStationPage implements OnInit {
   stationService: StationService;
 
   constructor(
+    formBuilder: FormBuilder,
     stationService: StationService,
     public geolocation: Geolocation,
     private modalCtrl: ModalController,
@@ -32,6 +35,11 @@ export class ListStationPage implements OnInit {
     public loadingController: LoadingController
   ) {
     this.stationService = stationService;
+
+    this.myForm = formBuilder.group({
+      state: ['', Validators.required],
+      filterBy: ['', Validators.required],
+    });
   }
 
   ngOnInit() {

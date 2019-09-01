@@ -5,7 +5,6 @@ import { IonicModule } from '@ionic/angular';
 import { RouterModule } from '@angular/router';
 
 import { ListStationPage } from './list-station.page';
-import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
 
 @NgModule({
   imports: [
@@ -22,10 +21,8 @@ import { NavigationModalComponent } from '../shared/natigation-modal/natigation-
   ],
   declarations: [
     ListStationPage,
-    NavigationModalComponent,
   ],
   entryComponents: [
-    NavigationModalComponent
   ]
 })
 export class ListStationPageModule {}
