@@ -71,7 +71,6 @@ export class AppComponent {
         isTesting: false
       };
 
-
       const bannerConfig: AdMobFreeBannerConfig = {
         isTesting: admobid.isTesting,
         autoShow: false,
@@ -93,7 +92,7 @@ export class AppComponent {
 
 
       const interstitialConfig: AdMobFreeInterstitialConfig = {
-        isTesting: false,
+        isTesting: admobid.isTesting,
         autoShow: false,
         id: 'ca-app-pub-2452858859242368/2279304865'
       };
