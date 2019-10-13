@@ -7,6 +7,7 @@ import { ModalController, AlertController, Platform } from '@ionic/angular';
 import { NavigationModalComponent } from '../shared/natigation-modal/natigation-modal.component';
 import { Address } from '../models/address.model';
 import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
+import { AdMobFree, AdMobFreeInterstitialConfig } from '@ionic-native/admob-free/ngx';
 
 declare var google;
 
@@ -34,6 +35,7 @@ export class MapPage implements OnInit {
     private zone: NgZone,
     private ga: GoogleAnalytics,
     private platform: Platform,
+    private admobFree: AdMobFree,
   ) {
     this.stationService = stationService;
   }
@@ -41,6 +43,8 @@ export class MapPage implements OnInit {
   ngOnInit() {
     this.platform.ready().then(() => {
       this.getLocation();
+
+      this.prepareAds();
 
       this.ga.trackView('Map Page');
       this.ga.trackEvent('track', 'Map Page', 'Map Page');
@@ -113,5 +117,31 @@ export class MapPage implements OnInit {
    });
 
    return await modal.present();
+  }
+
+  prepareAds(): void {
+    const admobid = {
+      interstitial: 'ca-app-pub-2452858859242368/2279304865',
+      isTesting: false
+    };
+
+    const interstitialConfig: AdMobFreeInterstitialConfig = {
+      isTesting: admobid.isTesting,
+      autoShow: false,
+      id: 'ca-app-pub-2452858859242368/2279304865'
+    };
+    this.admobFree.interstitial.config(interstitialConfig);
+
+    this.admobFree.interstitial.prepare()
+      .then(() => {
+        setTimeout(() => {
+          this.admobFree.interstitial.show();
+        }, 10000);
+      })
+      .catch(e => {
+        console.log('----------------->');
+        console.log(e);
+        console.log('<-----------------');
+      });
   }
 }

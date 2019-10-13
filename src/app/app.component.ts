@@ -66,8 +66,6 @@ export class AppComponent {
     this.platform.ready().then(() => {
       const admobid = {
         banner: 'ca-app-pub-2452858859242368/9428178902',
-        interstitial: 'ca-app-pub-2452858859242368/2279304865',
-
         isTesting: false
       };
 
@@ -84,32 +82,8 @@ export class AppComponent {
         })
         .catch(e => {
           console.log('================>');
-          console.log('================>');
           console.log(e);
           console.log('<================');
-          console.log('<================');
-        });
-
-
-      const interstitialConfig: AdMobFreeInterstitialConfig = {
-        isTesting: admobid.isTesting,
-        autoShow: false,
-        id: 'ca-app-pub-2452858859242368/2279304865'
-      };
-      this.admobFree.interstitial.config(interstitialConfig);
-
-      this.admobFree.interstitial.prepare()
-        .then(() => {
-          setTimeout(() => {
-            this.admobFree.interstitial.show();
-          }, 10000);
-        })
-        .catch(e => {
-          console.log('----------------->');
-          console.log('----------------->');
-          console.log(e);
-          console.log('<-----------------');
-          console.log('<-----------------');
         });
     });
   }
